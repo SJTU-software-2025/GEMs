@@ -1,0 +1,52 @@
+{
+  "C00001": {
+    "formula": "H2O",
+    "charge": 0,
+    "weight": 18.015
+  },
+  "C00002": {
+    "formula": "C10H16N5O13P3",
+    "charge": -4,
+    "weight": 507.18
+  },
+  "C00003": {
+    "formula": "C21H28N7O14P2",
+    "charge": -1,
+    "weight": 663.43
+  },
+  "C00004": {
+    "formula": "C21H29N7O14P2",
+    "charge": -2,
+    "weight": 664.44
+  },
+  "C00005": {
+    "formula": "C21H30N7O17P3",
+    "charge": -4,
+    "weight": 744.41
+  },
+  "C00006": {
+    "formula": "C21H29N7O17P3",
+    "charge": -3,
+    "weight": 743.41
+  },
+  "C00007": {
+    "formula": "O2",
+    "charge": 0,
+    "weight": 31.998
+  },
+  "C00008": {
+    "formula": "C10H15N5O10P2",
+    "charge": -3,
+    "weight": 427.2
+  },
+  "C00009": {
+    "formula": "H3PO4",
+    "charge": -2,
+    "weight": 97.977
+  },
+  "C00010": {
+    "formula": "C21H36N7O16P3S",
+    "charge": -4,
+    "weight": 767.53
+  }
+}

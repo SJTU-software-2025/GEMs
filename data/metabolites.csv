@@ -1,0 +1,1739 @@
+ID,Name,Compartment
+C00001_c,H2O,Cytosol
+C00002_c,ATP,Cytosol
+C00003_c,NAD+,Cytosol
+C00004_c,NADH,Cytosol
+C00005_c,NADPH,Cytosol
+C00006_c,NADP+,Cytosol
+C00007_c,Oxygen,Cytosol
+C00008_c,ADP,Cytosol
+C00009_c,Orthophosphate,Cytosol
+C00010_c,CoA,Cytosol
+C00011_c,CO2,Cytosol
+C00012_c,Peptide,Cytosol
+C00013_c,Diphosphate,Cytosol
+C00014_c,NH3,Cytosol
+C00015_c,UDP,Cytosol
+C00016_c,FAD,Cytosol
+C00017_c,Protein,Cytosol
+C00018_c,Pyridoxal phosphate,Cytosol
+C00019_c,S-Adenosyl-L-methionine,Cytosol
+C00020_c,AMP,Cytosol
+C00021_c,S-Adenosyl-L-homocysteine,Cytosol
+C00022_c,Pyruvate,Cytosol
+C00024_c,Acetyl-CoA,Cytosol
+C00025_c,L-Glutamate,Cytosol
+C00026_c,2-Oxoglutarate,Cytosol
+C00027_c,H2O2,Cytosol
+C00028_c,Acceptor,Cytosol
+C00029_c,UDP-glucose,Cytosol
+C00030_c,Reduced acceptor,Cytosol
+C00031_c,D-Glucose,Cytosol
+C00032_c,Heme,Cytosol
+C00033_c,Acetate,Cytosol
+C00035_c,GDP,Cytosol
+C00036_c,Oxaloacetate,Cytosol
+C00037_c,Glycine,Cytosol
+C00039_c,DNA,Cytosol
+C00041_c,L-Alanine,Cytosol
+C00042_c,Succinate,Cytosol
+C00043_c,UDP-N-acetyl-D-glucosamine,Cytosol
+C00044_c,GTP,Cytosol
+C00046_c,RNA,Cytosol
+C00047_c,L-Lysine,Cytosol
+C00048_c,Glyoxylate,Cytosol
+C00049_c,L-Aspartate,Cytosol
+C00051_c,Glutathione,Cytosol
+C00052_c,UDP-D-galactose,Cytosol
+C00053_c,3'-Phosphoadenylyl sulfate,Cytosol
+C00054_c,"Adenosine 3',5'-bisphosphate",Cytosol
+C00055_c,CMP,Cytosol
+C00058_c,Formate,Cytosol
+C00059_c,Sulfate,Cytosol
+C00061_c,FMN,Cytosol
+C00062_c,L-Arginine,Cytosol
+C00063_c,CTP,Cytosol
+C00064_c,L-Glutamine,Cytosol
+C00065_c,L-Serine,Cytosol
+C00067_c,Formaldehyde,Cytosol
+C00072_c,Ascorbate,Cytosol
+C00073_c,L-Methionine,Cytosol
+C00074_c,Phosphoenolpyruvate,Cytosol
+C00075_c,UTP,Cytosol
+C00077_c,L-Ornithine,Cytosol
+C00078_c,L-Tryptophan,Cytosol
+C00079_c,L-Phenylalanine,Cytosol
+C00080_c,H+,Cytosol
+C00081_c,ITP,Cytosol
+C00082_c,L-Tyrosine,Cytosol
+C00083_c,Malonyl-CoA,Cytosol
+C00084_c,Acetaldehyde,Cytosol
+C00085_c,D-Fructose 6-phosphate,Cytosol
+C00086_c,Urea,Cytosol
+C00087_c,Sulfur,Cytosol
+C00088_c,Nitrite,Cytosol
+C00089_c,Sucrose,Cytosol
+C00090_c,Catechol,Cytosol
+C00091_c,Succinyl-CoA,Cytosol
+C00092_c,D-Glucose 6-phosphate,Cytosol
+C00093_c,sn-Glycerol 3-phosphate,Cytosol
+C00094_c,Sulfite,Cytosol
+C00095_c,D-Fructose,Cytosol
+C00096_c,GDP-mannose,Cytosol
+C00097_c,L-Cysteine,Cytosol
+C00099_c,beta-Alanine,Cytosol
+C00100_c,Propanoyl-CoA,Cytosol
+C00101_c,Tetrahydrofolate,Cytosol
+C00103_c,D-Glucose 1-phosphate,Cytosol
+C00104_c,IDP,Cytosol
+C00105_c,UMP,Cytosol
+C00106_c,Uracil,Cytosol
+C00108_c,Anthranilate,Cytosol
+C00109_c,2-Oxobutanoate,Cytosol
+C00111_c,Glycerone phosphate,Cytosol
+C00112_c,CDP,Cytosol
+C00113_c,PQQ,Cytosol
+C00114_c,Choline,Cytosol
+C00116_c,Glycerol,Cytosol
+C00117_c,D-Ribose 5-phosphate,Cytosol
+C00118_c,D-Glyceraldehyde 3-phosphate,Cytosol
+C00119_c,5-Phospho-alpha-D-ribose 1-diphosphate,Cytosol
+C00120_c,Biotin,Cytosol
+C00121_c,D-Ribose,Cytosol
+C00122_c,Fumarate,Cytosol
+C00123_c,L-Leucine,Cytosol
+C00124_c,D-Galactose,Cytosol
+C00125_c,Ferricytochrome c,Cytosol
+C00126_c,Ferrocytochrome c,Cytosol
+C00127_c,Glutathione disulfide,Cytosol
+C00129_c,Isopentenyl diphosphate,Cytosol
+C00130_c,IMP,Cytosol
+C00131_c,dATP,Cytosol
+C00132_c,Methanol,Cytosol
+C00133_c,D-Alanine,Cytosol
+C00134_c,Putrescine,Cytosol
+C00135_c,L-Histidine,Cytosol
+C00136_c,Butanoyl-CoA,Cytosol
+C00137_c,myo-Inositol,Cytosol
+C00140_c,N-Acetyl-D-glucosamine,Cytosol
+C00141_c,3-Methyl-2-oxobutanoic acid,Cytosol
+C00143_c,"5,10-Methylenetetrahydrofolate",Cytosol
+C00144_c,GMP,Cytosol
+C00146_c,Phenol,Cytosol
+C00147_c,Adenine,Cytosol
+C00148_c,L-Proline,Cytosol
+C00149_c,(S)-Malate,Cytosol
+C00152_c,L-Asparagine,Cytosol
+C00153_c,Nicotinamide,Cytosol
+C00154_c,Palmitoyl-CoA,Cytosol
+C00155_c,L-Homocysteine,Cytosol
+C00156_c,4-Hydroxybenzoate,Cytosol
+C00158_c,Citrate,Cytosol
+C00159_c,D-Mannose,Cytosol
+C00160_c,Glycolate,Cytosol
+C00163_c,Propanoate,Cytosol
+C00164_c,Acetoacetate,Cytosol
+C00166_c,Phenylpyruvate,Cytosol
+C00167_c,UDP-glucuronate,Cytosol
+C00168_c,Hydroxypyruvate,Cytosol
+C00169_c,Carbamoyl phosphate,Cytosol
+C00170_c,5'-Methylthioadenosine,Cytosol
+C00175_c,Cobalt ion,Cytosol
+C00177_c,Cyanide,Cytosol
+C00178_c,Thymine,Cytosol
+C00179_c,Agmatine,Cytosol
+C00180_c,Benzoate,Cytosol
+C00183_c,L-Valine,Cytosol
+C00184_c,Glycerone,Cytosol
+C00185_c,Cellobiose,Cytosol
+C00186_c,(S)-Lactate,Cytosol
+C00187_c,Cholesterol,Cytosol
+C00188_c,L-Threonine,Cytosol
+C00189_c,Ethanolamine,Cytosol
+C00191_c,D-Glucuronate,Cytosol
+C00193_c,Aromatic aldehyde,Cytosol
+C00194_c,Cobamide coenzyme,Cytosol
+C00196_c,"2,3-Dihydroxybenzoate",Cytosol
+C00197_c,3-Phospho-D-glycerate,Cytosol
+C00198_c,"D-Glucono-1,5-lactone",Cytosol
+C00199_c,D-Ribulose 5-phosphate,Cytosol
+C00203_c,UDP-N-acetyl-D-galactosamine,Cytosol
+C00204_c,2-Dehydro-3-deoxy-D-gluconate,Cytosol
+C00206_c,dADP,Cytosol
+C00207_c,Acetone,Cytosol
+C00208_c,Maltose,Cytosol
+C00209_c,Oxalate,Cytosol
+C00212_c,Adenosine,Cytosol
+C00213_c,Sarcosine,Cytosol
+C00214_c,Thymidine,Cytosol
+C00217_c,D-Glutamate,Cytosol
+C00218_c,Methylamine,Cytosol
+C00219_c,"(5Z,8Z,11Z,14Z)-Icosatetraenoic acid",Cytosol
+C00222_c,3-Oxopropanoate,Cytosol
+C00223_c,p-Coumaroyl-CoA,Cytosol
+C00224_c,Adenylyl sulfate,Cytosol
+C00229_c,Acyl-carrier protein,Cytosol
+C00230_c,"3,4-Dihydroxybenzoate",Cytosol
+C00231_c,D-Xylulose 5-phosphate,Cytosol
+C00232_c,Succinate semialdehyde,Cytosol
+C00233_c,4-Methyl-2-oxopentanoate,Cytosol
+C00234_c,10-Formyltetrahydrofolate,Cytosol
+C00235_c,Dimethylallyl diphosphate,Cytosol
+C00236_c,3-Phospho-D-glyceroyl phosphate,Cytosol
+C00237_c,CO,Cytosol
+C00239_c,dCMP,Cytosol
+C00242_c,Guanine,Cytosol
+C00243_c,Lactose,Cytosol
+C00244_c,Nitrate,Cytosol
+C00245_c,Taurine,Cytosol
+C00248_c,Lipoamide,Cytosol
+C00249_c,Hexadecanoic acid,Cytosol
+C00251_c,Chorismate,Cytosol
+C00253_c,Nicotinate,Cytosol
+C00254_c,Prephenate,Cytosol
+C00255_c,Riboflavin,Cytosol
+C00256_c,(R)-Lactate,Cytosol
+C00257_c,D-Gluconic acid,Cytosol
+C00258_c,D-Glycerate,Cytosol
+C00261_c,Benzaldehyde,Cytosol
+C00262_c,Hypoxanthine,Cytosol
+C00263_c,L-Homoserine,Cytosol
+C00266_c,Glycolaldehyde,Cytosol
+C00268_c,Dihydrobiopterin,Cytosol
+C00269_c,CDP-diacylglycerol,Cytosol
+C00275_c,D-Mannose 6-phosphate,Cytosol
+C00279_c,D-Erythrose 4-phosphate,Cytosol
+C00280_c,Androstenedione,Cytosol
+C00283_c,Hydrogen sulfide,Cytosol
+C00286_c,dGTP,Cytosol
+C00288_c,HCO3-,Cytosol
+C00292_c,Aniline,Cytosol
+C00294_c,Inosine,Cytosol
+C00295_c,Orotate,Cytosol
+C00299_c,Uridine,Cytosol
+C00300_c,Creatine,Cytosol
+C00301_c,ADP-ribose,Cytosol
+C00305_c,Magnesium,Cytosol
+C00310_c,D-Xylulose,Cytosol
+C00311_c,Isocitrate,Cytosol
+C00312_c,L-Xylulose,Cytosol
+C00313_c,Oxalyl-CoA,Cytosol
+C00315_c,Spermidine,Cytosol
+C00320_c,Thiosulfate,Cytosol
+C00322_c,2-Oxoadipate,Cytosol
+C00323_c,Caffeoyl-CoA,Cytosol
+C00327_c,L-Citrulline,Cytosol
+C00328_c,L-Kynurenine,Cytosol
+C00330_c,Deoxyguanosine,Cytosol
+C00332_c,Acetoacetyl-CoA,Cytosol
+C00333_c,D-Galacturonate,Cytosol
+C00334_c,4-Aminobutanoate,Cytosol
+C00337_c,(S)-Dihydroorotate,Cytosol
+C00341_c,Geranyl diphosphate,Cytosol
+C00344_c,Phosphatidylglycerol,Cytosol
+C00345_c,6-Phospho-D-gluconate,Cytosol
+C00349_c,2-Methyl-3-oxopropanoate,Cytosol
+C00350_c,Phosphatidylethanolamine,Cytosol
+C00352_c,D-Glucosamine 6-phosphate,Cytosol
+C00353_c,Geranylgeranyl diphosphate,Cytosol
+C00354_c,"D-Fructose 1,6-bisphosphate",Cytosol
+C00355_c,"3,4-Dihydroxy-L-phenylalanine",Cytosol
+C00356_c,(S)-3-Hydroxy-3-methylglutaryl-CoA,Cytosol
+C00357_c,N-Acetyl-D-glucosamine 6-phosphate,Cytosol
+C00360_c,dAMP,Cytosol
+C00361_c,dGDP,Cytosol
+C00362_c,dGMP,Cytosol
+C00363_c,dTDP,Cytosol
+C00364_c,dTMP,Cytosol
+C00365_c,dUMP,Cytosol
+C00366_c,Urate,Cytosol
+C00376_c,Retinal,Cytosol
+C00378_c,Thiamine,Cytosol
+C00380_c,Cytosine,Cytosol
+C00385_c,Xanthine,Cytosol
+C00387_c,Guanosine,Cytosol
+C00388_c,1H-Imidazole-4-ethanamine,Cytosol
+C00392_c,Mannitol,Cytosol
+C00398_c,Tryptamine,Cytosol
+C00402_c,D-Aspartate,Cytosol
+C00406_c,Feruloyl-CoA,Cytosol
+C00407_c,L-Isoleucine,Cytosol
+C00409_c,Methanethiol,Cytosol
+C00410_c,Progesterone,Cytosol
+C00411_c,Sinapoyl-CoA,Cytosol
+C00412_c,Stearoyl-CoA,Cytosol
+C00414_c,Cyclohexanone,Cytosol
+C00415_c,Dihydrofolate,Cytosol
+C00416_c,Phosphatidate,Cytosol
+C00420_c,Polysaccharide,Cytosol
+C00422_c,Triacylglycerol,Cytosol
+C00423_c,trans-Cinnamate,Cytosol
+C00424_c,(S)-Lactaldehyde,Cytosol
+C00429_c,"5,6-Dihydrouracil",Cytosol
+C00430_c,5-Aminolevulinate,Cytosol
+C00433_c,"2,5-Dioxopentanoate",Cytosol
+C00437_c,N-Acetylornithine,Cytosol
+C00438_c,N-Carbamoyl-L-aspartate,Cytosol
+C00439_c,N-Formimino-L-glutamate,Cytosol
+C00440_c,5-Methyltetrahydrofolate,Cytosol
+C00441_c,L-Aspartate 4-semialdehyde,Cytosol
+C00445_c,"5,10-Methenyltetrahydrofolate",Cytosol
+C00446_c,alpha-D-Galactose 1-phosphate,Cytosol
+C00448_c,"trans,trans-Farnesyl diphosphate",Cytosol
+C00449_c,"N6-(L-1,3-Dicarboxypropyl)-L-lysine",Cytosol
+C00455_c,Nicotinamide D-ribonucleotide,Cytosol
+C00458_c,dCTP,Cytosol
+C00459_c,dTTP,Cytosol
+C00460_c,dUTP,Cytosol
+C00463_c,Indole,Cytosol
+C00468_c,Estrone,Cytosol
+C00469_c,Ethanol,Cytosol
+C00472_c,p-Benzoquinone,Cytosol
+C00473_c,Retinol,Cytosol
+C00475_c,Cytidine,Cytosol
+C00479_c,Propanal,Cytosol
+C00483_c,Tyramine,Cytosol
+C00487_c,Carnitine,Cytosol
+C00488_c,Formamide,Cytosol
+C00490_c,Itaconate,Cytosol
+C00491_c,L-Cystine,Cytosol
+C00492_c,Raffinose,Cytosol
+C00493_c,Shikimate,Cytosol
+C00499_c,Allantoate,Cytosol
+C00503_c,Erythritol,Cytosol
+C00507_c,L-Rhamnose,Cytosol
+C00510_c,Oleoyl-CoA,Cytosol
+C00511_c,Propenoate,Cytosol
+C00512_c,S-Benzoate coenzyme A,Cytosol
+C00513_c,CDP-glycerol,Cytosol
+C00514_c,D-Mannonate,Cytosol
+C00515_c,D-Ornithine,Cytosol
+C00522_c,(R)-Pantoate,Cytosol
+C00526_c,Deoxyuridine,Cytosol
+C00527_c,Glutaryl-CoA,Cytosol
+C00530_c,p-Benzenediol,Cytosol
+C00531_c,Itaconyl-CoA,Cytosol
+C00533_c,Nitric oxide,Cytosol
+C00534_c,Pyridoxamine,Cytosol
+C00535_c,Testosterone,Cytosol
+C00536_c,Triphosphate,Cytosol
+C00540_c,Cinnamoyl-CoA,Cytosol
+C00542_c,Cystathionine,Cytosol
+C00543_c,Dimethylamine,Cytosol
+C00544_c,Homogentisate,Cytosol
+C00546_c,Methylglyoxal,Cytosol
+C00547_c,L-Noradrenaline,Cytosol
+C00552_c,meso-Tartaric acid,Cytosol
+C00555_c,4-Aminobutyraldehyde,Cytosol
+C00558_c,D-Tagaturonate,Cytosol
+C00559_c,Deoxyadenosine,Cytosol
+C00566_c,(3S)-Citryl-CoA,Cytosol
+C00568_c,4-Aminobenzoate,Cytosol
+C00575_c,"3',5'-Cyclic AMP",Cytosol
+C00576_c,Betaine aldehyde,Cytosol
+C00577_c,D-Glyceraldehyde,Cytosol
+C00579_c,Dihydrolipoamide,Cytosol
+C00581_c,Guanidinoacetate,Cytosol
+C00582_c,Phenylacetyl-CoA,Cytosol
+C00587_c,3-Hydroxybenzoate,Cytosol
+C00599_c,Cholest-4-en-3-one,Cytosol
+C00601_c,Phenylacetaldehyde,Cytosol
+C00603_c,(-)-Ureidoglycolate,Cytosol
+C00619_c,3-Oxo-delta4-steroid,Cytosol
+C00620_c,alpha-D-Ribose 1-phosphate,Cytosol
+C00624_c,N-Acetyl-L-glutamate,Cytosol
+C00627_c,Pyridoxine phosphate,Cytosol
+C00628_c,"2,5-Dihydroxybenzoate",Cytosol
+C00631_c,2-Phospho-D-glycerate,Cytosol
+C00632_c,3-Hydroxyanthranilate,Cytosol
+C00633_c,4-Hydroxybenzaldehyde,Cytosol
+C00636_c,D-Mannose 1-phosphate,Cytosol
+C00637_c,Indole-3-acetaldehyde,Cytosol
+C00643_c,5-Hydroxy-L-tryptophan,Cytosol
+C00645_c,N-Acetyl-D-mannosamine,Cytosol
+C00647_c,Pyridoxamine phosphate,Cytosol
+C00650_c,4-Hydroxymandelonitrile,Cytosol
+C00655_c,Xanthosine 5'-phosphate,Cytosol
+C00666_c,"LL-2,6-Diaminoheptanedioate",Cytosol
+C00669_c,gamma-L-Glutamyl-L-cysteine,Cytosol
+C00670_c,sn-glycero-3-Phosphocholine,Cytosol
+C00671_c,(S)-3-Methyl-2-oxopentanoic acid,Cytosol
+C00672_c,2-Deoxy-D-ribose 1-phosphate,Cytosol
+C00673_c,2-Deoxy-D-ribose 5-phosphate,Cytosol
+C00679_c,5-Dehydro-4-deoxy-D-glucarate,Cytosol
+C00680_c,"meso-2,6-Diaminoheptanedioate",Cytosol
+C00683_c,(S)-Methylmalonyl-CoA,Cytosol
+C00688_c,dTDP-4-dehydro-6-deoxy-L-mannose,Cytosol
+C00689_c,"alpha,alpha'-Trehalose 6-phosphate",Cytosol
+C00691_c,"2,4,6/3,5-Pentahydroxycyclohexanone",Cytosol
+C00692_c,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate,Cytosol
+C00698_c,Cl-,Cytosol
+C00700_c,XTP,Cytosol
+C00703_c,Mercury(2+),Cytosol
+C00704_c,O2.-,Cytosol
+C00705_c,dCDP,Cytosol
+C00712_c,(9Z)-Octadecenoic acid,Cytosol
+C00719_c,Betaine,Cytosol
+C00725_c,Lipoate,Cytosol
+C00735_c,Cortisol,Cytosol
+C00740_c,D-Serine,Cytosol
+C00741_c,Diacetyl,Cytosol
+C00744_c,Macrocin,Cytosol
+C00748_c,Siroheme,Cytosol
+C00750_c,Spermine,Cytosol
+C00751_c,Squalene,Cytosol
+C00763_c,D-Proline,Cytosol
+C00777_c,Retinoate,Cytosol
+C00780_c,Serotonin,Cytosol
+C00785_c,Urocanate,Cytosol
+C00788_c,L-Adrenaline,Cytosol
+C00791_c,Creatinine,Cytosol
+C00792_c,D-Arginine,Cytosol
+C00794_c,D-Sorbitol,Cytosol
+C00797_c,Ethylamine,Cytosol
+C00798_c,Formyl-CoA,Cytosol
+C00800_c,L-Gulonate,Cytosol
+C00804_c,Propynoate,Cytosol
+C00805_c,Salicylate,Cytosol
+C00810_c,(R)-Acetoin,Cytosol
+C00818_c,D-Glucarate,Cytosol
+C00819_c,D-Glutamine,Cytosol
+C00826_c,L-Arogenate,Cytosol
+C00829_c,Naphthalene,Cytosol
+C00831_c,Pantetheine,Cytosol
+C00842_c,dTDP-glucose,Cytosol
+C00846_c,3-Oxoadipate,Cytosol
+C00850_c,Aryl sulfate,Cytosol
+C00853_c,Cob(I)alamin,Cytosol
+C00855_c,D-Methionine,Cytosol
+C00857_c,Deamino-NAD+,Cytosol
+C00860_c,L-Histidinol,Cytosol
+C00861_c,L-Rhamnulose,Cytosol
+C00864_c,Pantothenate,Cytosol
+C00870_c,4-Nitrophenol,Cytosol
+C00876_c,Coenzyme F420,Cytosol
+C00877_c,Crotonoyl-CoA,Cytosol
+C00879_c,D-Galactarate,Cytosol
+C00880_c,D-Galactonate,Cytosol
+C00881_c,Deoxycytidine,Cytosol
+C00882_c,Dephospho-CoA,Cytosol
+C00885_c,Isochorismate,Cytosol
+C00894_c,Propenoyl-CoA,Cytosol
+C00898_c,"(R,R)-Tartaric acid",Cytosol
+C00900_c,2-Acetolactate,Cytosol
+C00905_c,D-Fructuronate,Cytosol
+C00906_c,"5,6-Dihydrothymine",Cytosol
+C00916_c,Cephalosporin C,Cytosol
+C00918_c,Chloramphenicol,Cytosol
+C00919_c,Choline sulfate,Cytosol
+C00921_c,Dihydropteroate,Cytosol
+C00923_c,Ferricytochrome,Cytosol
+C00924_c,Ferrocytochrome,Cytosol
+C00931_c,Porphobilinogen,Cytosol
+C00942_c,"3',5'-Cyclic GMP",Cytosol
+C00944_c,3-Dehydroquinate,Cytosol
+C00951_c,Estradiol,Cytosol
+C00954_c,Indole-3-acetate,Cytosol
+C00956_c,L-2-Aminoadipate,Cytosol
+C00957_c,Mercaptopyruvate,Cytosol
+C00966_c,2-Dehydropantoate,Cytosol
+C00969_c,3-Hydroxypropanal,Cytosol
+C00979_c,O-Acetyl-L-serine,Cytosol
+C00988_c,2-Phosphoglycolate,Cytosol
+C00993_c,D-Alanyl-D-alanine,Cytosol
+C01005_c,O-Phospho-L-serine,Cytosol
+C01010_c,Urea-1-carboxylate,Cytosol
+C01013_c,3-Hydroxypropanoate,Cytosol
+C01019_c,6-Deoxy-L-galactose,Cytosol
+C01024_c,Hydroxymethylbilane,Cytosol
+C01034_c,3-Oxo-delta5-steroid,Cytosol
+C01035_c,4-Guanidinobutanoate,Cytosol
+C01036_c,4-Maleylacetoacetate,Cytosol
+C01037_c,"7,8-Diaminononanoate",Cytosol
+C01040_c,"L-Gulono-1,4-lactone",Cytosol
+C01050_c,UDP-N-acetylmuramate,Cytosol
+C01051_c,Uroporphyrinogen III,Cytosol
+C01061_c,4-Fumarylacetoacetate,Cytosol
+C01063_c,6-Carboxyhexanoyl-CoA,Cytosol
+C01077_c,O-Acetyl-L-homoserine,Cytosol
+C01079_c,Protoporphyrinogen IX,Cytosol
+C01080_c,Reduced coenzyme F420,Cytosol
+C01081_c,Thiamin monophosphate,Cytosol
+C01083_c,"alpha,alpha-Trehalose",Cytosol
+C01089_c,(R)-3-Hydroxybutanoate,Cytosol
+C01092_c,8-Amino-7-oxononanoate,Cytosol
+C01096_c,Sorbitol 6-phosphate,Cytosol
+C01097_c,D-Tagatose 6-phosphate,Cytosol
+C01099_c,L-Fuculose 1-phosphate,Cytosol
+C01100_c,L-Histidinol phosphate,Cytosol
+C01102_c,O-Phospho-L-homoserine,Cytosol
+C01103_c,Orotidine 5'-phosphate,Cytosol
+C01110_c,5-Amino-2-oxopentanoic acid,Cytosol
+C01115_c,"L-Galactono-1,4-lactone",Cytosol
+C01118_c,O-Succinyl-L-homoserine,Cytosol
+C01127_c,4-Hydroxy-2-oxoglutarate,Cytosol
+C01131_c,L-Rhamnulose 1-phosphate,Cytosol
+C01134_c,Pantetheine 4'-phosphate,Cytosol
+C01137_c,S-Adenosylmethioninamine,Cytosol
+C01144_c,(S)-3-Hydroxybutanoyl-CoA,Cytosol
+C01146_c,2-Hydroxy-3-oxopropanoate,Cytosol
+C01147_c,2-Hydroxycyclohexan-1-one,Cytosol
+C01149_c,4-Trimethylammoniobutanal,Cytosol
+C01152_c,N(pi)-Methyl-L-histidine,Cytosol
+C01153_c,Orthophosphoric monoester,Cytosol
+C01157_c,trans-4-Hydroxy-L-proline,Cytosol
+C01159_c,"2,3-Bisphospho-D-glycerate",Cytosol
+C01163_c,"3-Carboxy-cis,cis-muconate",Cytosol
+C01165_c,L-Glutamate 5-semialdehyde,Cytosol
+C01171_c,alpha-D-Hexose 1-phosphate,Cytosol
+C01176_c,17alpha-Hydroxyprogesterone,Cytosol
+C01177_c,Inositol 1-phosphate,Cytosol
+C01179_c,3-(4-Hydroxyphenyl)pyruvate,Cytosol
+C01180_c,4-Methylthio-2-oxobutanoic acid,Cytosol
+C01181_c,4-Trimethylammoniobutanoate,Cytosol
+C01185_c,Nicotinate D-ribonucleotide,Cytosol
+C01188_c,3-Hydroxy-2-methylpropanoate,Cytosol
+C01203_c,Oleoyl-[acyl-carrier protein],Cytosol
+C01204_c,myo-Inositol hexakisphosphate,Cytosol
+C01209_c,Malonyl-[acyl-carrier protein],Cytosol
+C01212_c,UDP-N-acetylmuramoyl-L-alanine,Cytosol
+C01213_c,(R)-Methylmalonyl-CoA,Cytosol
+C01216_c,2-Dehydro-3-deoxy-D-galactonate,Cytosol
+C01217_c,"5,6,7,8-Tetrahydromethanopterin",Cytosol
+C01227_c,Dehydroepiandrosterone,Cytosol
+C01228_c,"Guanosine 3',5'-bis(diphosphate)",Cytosol
+C01233_c,sn-glycero-3-Phosphoethanolamine,Cytosol
+C01234_c,1-Aminocyclopropane-1-carboxylate,Cytosol
+C01235_c,alpha-D-Galactosyl-(1->3)-1D-myo-inositol,Cytosol
+C01236_c,"D-Glucono-1,5-lactone 6-phosphate",Cytosol
+C01250_c,N-Acetyl-L-glutamate 5-semialdehyde,Cytosol
+C01267_c,3-(Imidazol-4-yl)-2-oxopropyl phosphate,Cytosol
+C01268_c,5-Amino-6-(5'-phosphoribosylamino)uracil,Cytosol
+C01269_c,5-O-(1-Carboxyvinyl)-3-phosphoshikimate,Cytosol
+C01278_c,"2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate",Cytosol
+C01279_c,4-Amino-5-hydroxymethyl-2-methylpyrimidine,Cytosol
+C01286_c,2-Dehydro-3-deoxy-D-galactonate 6-phosphate,Cytosol
+C01300_c,"2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine",Cytosol
+C01302_c,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,Cytosol
+C01304_c,"2,5-Diamino-6-(5'-phosphoribosylamino)-4-pyrimidineone",Cytosol
+C01319_c,Hg,Cytosol
+C01326_c,Hydrogen cyanide,Cytosol
+C01327_c,Hydrochloric acid,Cytosol
+C01328_c,HO-,Cytosol
+C01344_c,dIDP,Cytosol
+C01345_c,dITP,Cytosol
+C01346_c,dUDP,Cytosol
+C01352_c,FADH2,Cytosol
+C01353_c,Carbonic acid,Cytosol
+C01358_c,NH4OH,Cytosol
+C01359_c,PQQH2,Cytosol
+C01384_c,Maleic acid,Cytosol
+C01412_c,Butanal,Cytosol
+C01416_c,Cocaine,Cytosol
+C01419_c,Cys-Gly,Cytosol
+C01424_c,Gallate,Cytosol
+C01454_c,Toluate,Cytosol
+C01457_c,Tylosin,Cytosol
+C01467_c,3-Cresol,Cytosol
+C01468_c,4-Cresol,Cytosol
+C01508_c,L-Lyxose,Cytosol
+C01528_c,Selenide,Cytosol
+C01530_c,Octadecanoic acid,Cytosol
+C01551_c,Allantoin,Cytosol
+C01586_c,Hippurate,Cytosol
+C01595_c,Linoleate,Cytosol
+C01606_c,Phthalate,Cytosol
+C01609_c,Protamine,Cytosol
+C01613_c,Stachyose,Cytosol
+C01659_c,Acrylamide,Cytosol
+C01672_c,Cadaverine,Cytosol
+C01674_c,Chitobiose,Cytosol
+C01721_c,L-Fuculose,Cytosol
+C01724_c,Lanosterol,Cytosol
+C01755_c,Thiocyanate,Cytosol
+C01762_c,Xanthosine,Cytosol
+C01801_c,Deoxyribose,Cytosol
+C01825_c,L-Galactose,Cytosol
+C01832_c,Lauroyl-CoA,Cytosol
+C01847_c,Reduced FMN,Cytosol
+C01866_c,beta-Lactam,Cytosol
+C01880_c,epsilon-Caprolactone,Cytosol
+C01888_c,Aminoacetone,Cytosol
+C01909_c,Dethiobiotin,Cytosol
+C01934_c,L-Rhamnonate,Cytosol
+C01943_c,Obtusifoliol,Cytosol
+C01944_c,Octanoyl-CoA,Cytosol
+C01953_c,Pregnenolone,Cytosol
+C01959_c,Taurocyamine,Cytosol
+C01962_c,Thiocysteine,Cytosol
+C02041_c,Eicosanoyl-CoA,Cytosol
+C02050_c,Linoleoyl-CoA,Cytosol
+C02059_c,Phylloquinone,Cytosol
+C02094_c,beta-Carotene,Cytosol
+C02097_c,dTDP-galactose,Cytosol
+C02116_c,2-Nitropropane,Cytosol
+C02137_c,alpha-Oxo-benzeneacetic acid,Cytosol
+C02139_c,Chlorophyllide,Cytosol
+C02170_c,Methylmalonate,Cytosol
+C02191_c,Protoporphyrin,Cytosol
+C02199_c,UDP-L-rhamnose,Cytosol
+C02214_c,(E)-Glutaconate,Cytosol
+C02222_c,2-Maleylacetate,Cytosol
+C02226_c,2-Methylmaleate,Cytosol
+C02232_c,3-Oxoadipyl-CoA,Cytosol
+C02235_c,4-Nitrocatechol,Cytosol
+C02247_c,Anthranilyl-CoA,Cytosol
+C02249_c,Arachidonyl-CoA,Cytosol
+C02291_c,L-Cystathionine,Cytosol
+C02323_c,Salicyl alcohol,Cytosol
+C02341_c,trans-Aconitate,Cytosol
+C02350_c,(S)(+)-Allantoin,Cytosol
+C02359_c,2-Fluorobenzoate,Cytosol
+C02364_c,3-Fluorobenzoate,Cytosol
+C02371_c,4-Fluorobenzoate,Cytosol
+C02375_c,4-Chlorocatechol,Cytosol
+C02376_c,5-Methylcytosine,Cytosol
+C02380_c,6-Mercaptopurine,Cytosol
+C02411_c,Glutaconyl-1-CoA,Cytosol
+C02442_c,N-Methyltyramine,Cytosol
+C02457_c,"Propane-1,3-diol",Cytosol
+C02463_c,Precorrin 2,Cytosol
+C02469_c,Uroporphyrin III,Cytosol
+C02470_c,Xanthurenic acid,Cytosol
+C02480_c,"cis,cis-Muconate",Cytosol
+C02504_c,(2S)-2-Isopropylmalate,Cytosol
+C02505_c,2-Phenylacetamide,Cytosol
+C02512_c,3-Cyano-L-alanine,Cytosol
+C02532_c,D-O-Phosphoserine,Cytosol
+C02538_c,Estrone 3-sulfate,Cytosol
+C02565_c,N-Methylhydantoin,Cytosol
+C02571_c,O-Acetylcarnitine,Cytosol
+C02575_c,Pentachlorophenol,Cytosol
+C02576_c,Perillyl aldehyde,Cytosol
+C02593_c,Tetradecanoyl-CoA,Cytosol
+C02612_c,(R)-2-Methylmalate,Cytosol
+C02630_c,2-Hydroxyglutarate,Cytosol
+C02631_c,2-Isopropylmaleate,Cytosol
+C02637_c,3-Dehydroshikimate,Cytosol
+C02642_c,3-Ureidopropionate,Cytosol
+C02656_c,6-Carboxyhexanoate,Cytosol
+C02670_c,D-Glucuronolactone,Cytosol
+C02679_c,Dodecanoic acid,Cytosol
+C02693_c,(Indol-3-yl)acetamide,Cytosol
+C02700_c,L-Formylkynurenine,Cytosol
+C02713_c,N-Acetylmuramate,Cytosol
+C02714_c,N-Acetylputrescine,Cytosol
+C02729_c,O-Phosphoprotamine,Cytosol
+C02730_c,2-Succinylbenzoate,Cytosol
+C02737_c,Phosphatidylserine,Cytosol
+C02739_c,1-(5-Phospho-D-ribosyl)-ATP,Cytosol
+C02741_c,Phosphoribosyl-AMP,Cytosol
+C02759_c,alpha-Pinene-oxide,Cytosol
+C02780_c,"2,5-Didehydro-D-gluconate",Cytosol
+C02782_c,2-Deoxy-D-gluconate,Cytosol
+C02814_c,"Benzene-1,2,4-triol",Cytosol
+C02835_c,Imidazole-4-acetate,Cytosol
+C02876_c,Propanoyl phosphate,Cytosol
+C02880_c,Protochlorophyllide,Cytosol
+C02888_c,Sorbose 1-phosphate,Cytosol
+C02909_c,(2-Naphthyl)methanol,Cytosol
+C02923_c,"2,3-Dihydroxytoluene",Cytosol
+C02939_c,3-Methylbutanoyl-CoA,Cytosol
+C02946_c,4-Acetamidobutanoate,Cytosol
+C02999_c,N-Acetylmuramoyl-Ala,Cytosol
+C03005_c,N-Methylanthranilate,Cytosol
+C03012_c,"Naphthalene-1,2-diol",Cytosol
+C03035_c,gamma-Linolenoyl-CoA,Cytosol
+C03044_c,"(R,R)-Butane-2,3-diol",Cytosol
+C03058_c,2-Hydroxyglutaryl-CoA,Cytosol
+C03067_c,3-Hydroxybenzaldehyde,Cytosol
+C03069_c,3-Methylcrotonyl-CoA,Cytosol
+C03078_c,4-Guanidinobutanamide,Cytosol
+C03082_c,4-Phospho-L-aspartate,Cytosol
+C03090_c,5-Phosphoribosylamine,Cytosol
+C03114_c,Dimethylbenzimidazole,Cytosol
+C03150_c,N-Ribosylnicotinamide,Cytosol
+C03160_c,2-Succinylbenzoyl-CoA,Cytosol
+C03175_c,Shikimate 3-phosphate,Cytosol
+C03194_c,(R)-1-Aminopropan-2-ol,Cytosol
+C03203_c,1-Hydroxy-2-naphthoate,Cytosol
+C03205_c,11-Deoxycorticosterone,Cytosol
+C03221_c,2-trans-Dodecenoyl-CoA,Cytosol
+C03227_c,3-Hydroxy-L-kynurenine,Cytosol
+C03231_c,3-Methylglutaconyl-CoA,Cytosol
+C03232_c,3-Phosphonooxypyruvate,Cytosol
+C03240_c,6-Deoxyerythronolide B,Cytosol
+C03242_c,"(8Z,11Z,14Z)-Icosatrienoic acid",Cytosol
+C03263_c,Coproporphyrinogen III,Cytosol
+C03267_c,beta-D-Fructose 2-phosphate,Cytosol
+C03283_c,"L-2,4-Diaminobutanoate",Cytosol
+C03284_c,L-3-Amino-isobutanoate,Cytosol
+C03287_c,L-Glutamyl 5-phosphate,Cytosol
+C03289_c,L-xylo-Hexulonolactone,Cytosol
+C03319_c,dTDP-6-deoxy-L-mannose,Cytosol
+C03340_c,"L-2,3-Dihydrodipicolinate",Cytosol
+C03344_c,2-Methylacetoacetyl-CoA,Cytosol
+C03345_c,2-Methylbut-2-enoyl-CoA,Cytosol
+C03351_c,3-Hydroxybenzyl alcohol,Cytosol
+C03356_c,3-Phospho-D-erythronate,Cytosol
+C03360_c,4-Nitrophenyl phosphate,Cytosol
+C03373_c,Aminoimidazole ribotide,Cytosol
+C03406_c,N-(L-Arginino)succinate,Cytosol
+C03427_c,Prephytoene diphosphate,Cytosol
+C03434_c,Tetrachlorohydroquinone,Cytosol
+C03440_c,cis-4-Hydroxy-D-proline,Cytosol
+C03451_c,(R)-S-Lactoylglutathione,Cytosol
+C03459_c,2-Hydroxy-3-oxosuccinate,Cytosol
+C03460_c,2-Methylprop-2-enoyl-CoA,Cytosol
+C03479_c,5-Formyltetrahydrofolate,Cytosol
+C03485_c,Aromatic primary alcohol,Cytosol
+C03492_c,D-4'-Phosphopantothenate,Cytosol
+C03494_c,D-Erythritol 4-phosphate,Cytosol
+C03506_c,Indoleglycerol phosphate,Cytosol
+C03508_c,L-2-Amino-3-oxobutanoic acid,Cytosol
+C03516_c,Magnesium protoporphyrin,Cytosol
+C03546_c,myo-Inositol 4-phosphate,Cytosol
+C03561_c,(R)-3-Hydroxybutanoyl-CoA,Cytosol
+C03564_c,1-Pyrroline-2-carboxylate,Cytosol
+C03572_c,"2-Chloro-cis,cis-muconate",Cytosol
+C03582_c,"3,4',5-Trihydroxystilbene",Cytosol
+C03585_c,"3-Chloro-cis,cis-muconate",Cytosol
+C03586_c,"2-Oxo-2,3-dihydrofuran-5-acetate",Cytosol
+C03590_c,4-Hydroxyphenylglyoxylate,Cytosol
+C03595_c,"8,11,14-Eicosatrienoyl-CoA",Cytosol
+C03601_c,Chloramphenicol 3-acetate,Cytosol
+C03657_c,"1,4-Dihydroxy-2-naphthoate",Cytosol
+C03671_c,"2-Pyrone-4,6-dicarboxylate",Cytosol
+C03680_c,4-Imidazolone-5-propanoate,Cytosol
+C03688_c,Apo-[acyl-carrier-protein],Cytosol
+C03722_c,Quinolinate,Cytosol
+C03733_c,"UDP-alpha-D-galacto-1,4-furanose",Cytosol
+C03735_c,alpha-D-Hexose 6-phosphate,Cytosol
+C03741_c,(S)-4-Amino-5-oxopentanoate,Cytosol
+C03758_c,Dopamine,Cytosol
+C03765_c,4-Hydroxyphenylacetaldehyde,Cytosol
+C03771_c,5-Guanidino-2-oxopentanoate,Cytosol
+C03785_c,"D-Tagatose 1,6-bisphosphate",Cytosol
+C03794_c,"N6-(1,2-Dicarboxyethyl)-AMP",Cytosol
+C03806_c,Substituted beta-amino acid,Cytosol
+C03838_c,5'-Phosphoribosylglycinamide,Cytosol
+C03892_c,Phosphatidylglycerophosphate,Cytosol
+C03912_c,(S)-1-Pyrroline-5-carboxylate,Cytosol
+C03921_c,2-Dehydro-3-deoxy-D-glucarate,Cytosol
+C03926_c,3-Dehydro-2-deoxy-D-gluconate,Cytosol
+C03939_c,Acetyl-[acyl-carrier protein],Cytosol
+C03972_c,"2,3,4,5-Tetrahydrodipicolinate",Cytosol
+C03979_c,2-Dehydro-3-deoxy-L-rhamnonate,Cytosol
+C04006_c,1D-myo-Inositol 3-phosphate,Cytosol
+C04030_c,"(2,3-Dihydroxybenzoyl)adenylate",Cytosol
+C04039_c,"2,3-Dihydroxy-3-methylbutanoate",Cytosol
+C04043_c,"3,4-Dihydroxyphenylacetaldehyde",Cytosol
+C04044_c,"3-(2,3-Dihydroxyphenyl)propanoate",Cytosol
+C04051_c,5-Amino-4-imidazolecarboxyamide,Cytosol
+C04052_c,5-Carboxy-2-oxohept-3-enedioate,Cytosol
+C04076_c,L-2-Aminoadipate 6-semialdehyde,Cytosol
+C04079_c,N-((R)-Pantothenoyl)-L-cysteine,Cytosol
+C04088_c,Octadecanoyl-[acyl-carrier protein],Cytosol
+C04089_c,UDP-4-dehydro-6-deoxy-D-glucose,Cytosol
+C04112_c,"3-Methyl-cis,cis-hexadienedioate",Cytosol
+C04122_c,D-1-Aminopropan-2-ol O-phosphate,Cytosol
+C04133_c,N-Acetyl-L-glutamate 5-phosphate,Cytosol
+C04144_c,Tetrahydropteroyltri-L-glutamate,Cytosol
+C04146_c,all-trans-Octaprenyl diphosphate,Cytosol
+C04171_c,"(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate",Cytosol
+C04178_c,Bromoxynil,Cytosol
+C04186_c,5-Carboxymethyl-2-hydroxymuconate,Cytosol
+C04188_c,S-Methyl-5-thio-D-ribose 1-phosphate,Cytosol
+C04216_c,all-trans-Heptaprenyl diphosphate,Cytosol
+C04236_c,(2S)-2-Isopropyl-3-oxosuccinate,Cytosol
+C04246_c,But-2-enoyl-[acyl-carrier protein],Cytosol
+C04257_c,N-Acetyl-D-mannosamine 6-phosphate,Cytosol
+C04272_c,"(R)-2,3-Dihydroxy-3-methylbutanoate",Cytosol
+C04281_c,L-1-Pyrroline-3-hydroxy-5-carboxylate,Cytosol
+C04282_c,1-Pyrroline-4-hydroxy-2-carboxylate,Cytosol
+C04287_c,"3D-(3,5/4)-Trihydroxycyclohexane-1,2-dione",Cytosol
+C04294_c,5-(2-Hydroxyethyl)-4-methylthiazole,Cytosol
+C04295_c,"Androst-5-ene-3beta,17beta-diol",Cytosol
+C04302_c,N-(5-Phospho-D-ribosyl)anthranilate,Cytosol
+C04309_c,Phosphoenol-4-deoxy-3-tetrulosonate,Cytosol
+C04322_c,"3,4-Dihydro-2H-Pyrrole-2-carboxylate",Cytosol
+C04327_c,4-Methyl-5-(2-phosphoethyl)-thiazole,Cytosol
+C04332_c,"6,7-Dimethyl-8-(1-D-ribityl)lumazine",Cytosol
+C04349_c,"(4S)-4,6-Dihydroxy-2,5-dioxohexanoate",Cytosol
+C04352_c,(R)-4'-Phosphopantothenoyl-L-cysteine,Cytosol
+C04353_c,(Z)-4-Hydroxyphenylacetaldehyde-oxime,Cytosol
+C04376_c,5'-Phosphoribosyl-N-formylglycinamide,Cytosol
+C04377_c,"5,10-Methylenetetrahydromethanopterin",Cytosol
+C04405_c,"(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA",Cytosol
+C04411_c,"(2R,3S)-3-Isopropylmalate",Cytosol
+C04421_c,"N-Succinyl-LL-2,6-diaminoheptanedioate",Cytosol
+C04425_c,S-Adenosyl-4-methylthio-2-oxobutanoate,Cytosol
+C04431_c,cis-4-Carboxymethylenebut-2-en-4-olide,Cytosol
+C04434_c,"(E)-4-Oxobut-1-ene-1,2,4-tricarboxylate",Cytosol
+C04442_c,2-Dehydro-3-deoxy-6-phospho-D-gluconate,Cytosol
+C04451_c,"4-Carboxy-2-hydroxyhexa-2,4-dienedioate",Cytosol
+C04454_c,5-Amino-6-(5'-phosphoribitylamino)uracil,Cytosol
+C04462_c,N-Succinyl-2-L-amino-6-oxoheptanedioate,Cytosol
+C04484_c,4-Carboxy-2-hydroxymuconate semialdehyde,Cytosol
+C04488_c,"5-Methyl-5,6,7,8-tetrahydromethanopterin",Cytosol
+C04489_c,5-Methyltetrahydropteroyltri-L-glutamate,Cytosol
+C04494_c,Guanosine 3'-diphosphate 5'-triphosphate,Cytosol
+C04501_c,N-Acetyl-alpha-D-glucosamine 1-phosphate,Cytosol
+C04534_c,"6-Phospho-beta-D-glucosyl-(1,4)-D-glucose",Cytosol
+C04554_c,"3alpha,7alpha-Dihydroxy-5beta-cholestanate",Cytosol
+C04556_c,4-Amino-2-methyl-5-phosphomethylpyrimidine,Cytosol
+C04558_c,3-Methylmuconolactone,Cytosol
+C04559_c,4-Methylmuconolactone,Cytosol
+C04563_c,"D-myo-Inositol 1,2,4,5,6-pentakisphosphate",Cytosol
+C04574_c,"di-trans,poly-cis-Undecaprenyl diphosphate",Cytosol
+C04575_c,"(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate",Cytosol
+C04582_c,S-Methyl-5-thio-D-ribulose 1-phosphate,Cytosol
+C04618_c,(3R)-3-Hydroxybutanoyl-[acyl-carrier protein],Cytosol
+C04619_c,(3R)-3-Hydroxydecanoyl-[acyl-carrier protein],Cytosol
+C04620_c,(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein],Cytosol
+C04631_c,UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine,Cytosol
+C04633_c,(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein],Cytosol
+C04634_c,"1,6-Dihydroxycyclohexa-2,4-diene-1-carboxylate",Cytosol
+C04640_c,2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine,Cytosol
+C04644_c,"3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA",Cytosol
+C04646_c,6-Thioinosine-5'-monophosphate,Cytosol
+C04666_c,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate,Cytosol
+C04675_c,3-Hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA,Cytosol
+C04677_c,1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide,Cytosol
+C04688_c,(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein],Cytosol
+C04691_c,2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate,Cytosol
+C04702_c,UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala),Cytosol
+C04706_c,"cis-2-Chloro-4-carboxymethylenebut-2-en-1,4-olide",Cytosol
+C04712_c,(7R)-7-(5-Carboxy-5-oxopentanoyl)aminocephalosporinate,Cytosol
+C04732_c,5-Amino-6-(1-D-ribitylamino)uracil,Cytosol
+C04734_c,1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,Cytosol
+C04751_c,1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate,Cytosol
+C04752_c,2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate,Cytosol
+C04760_c,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA",Cytosol
+C04778_c,"N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole",Cytosol
+C04783_c,"cis-4,5-Dihydroxycyclohexa-1(6),2-diene-1,2-dicarboxylate",Cytosol
+C04807_c,"2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine",Cytosol
+C04823_c,1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole,Cytosol
+C04851_c,MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-,Cytosol
+C04874_c,"2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-",Cytosol
+C04877_c,"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-",Cytosol
+C04882_c,UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-,Cytosol
+C04895_c,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine",Cytosol
+C04896_c,5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-,Cytosol
+C04916_c,N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-,Cytosol
+C05011_c,Hydroxytamoxifen,Cytosol
+C05100_c,3-Ureidoisobutyrate,Cytosol
+C05116_c,3-Hydroxybutanoyl-CoA,Cytosol
+C05127_c,N-Methylhistamine,Cytosol
+C05130_c,Imidazole-4-acetaldehyde,Cytosol
+C05138_c,17alpha-Hydroxypregnenolone,Cytosol
+C05139_c,16alpha-Hydroxydehydroepiandrosterone,Cytosol
+C05140_c,"16alpha-Hydroxyandrost-4-ene-3,17-dione",Cytosol
+C05141_c,Estriol,Cytosol
+C05172_c,Selenophosphate,Cytosol
+C05198_c,5'-Deoxyadenosine,Cytosol
+C05223_c,Dodecanoyl-[acyl-carrier protein],Cytosol
+C05258_c,(S)-3-Hydroxyhexadecanoyl-CoA,Cytosol
+C05259_c,3-Oxopalmitoyl-CoA,Cytosol
+C05260_c,(S)-3-Hydroxytetradecanoyl-CoA,Cytosol
+C05261_c,3-Oxotetradecanoyl-CoA,Cytosol
+C05262_c,(S)-3-Hydroxydodecanoyl-CoA,Cytosol
+C05263_c,3-Oxododecanoyl-CoA,Cytosol
+C05264_c,(S)-Hydroxydecanoyl-CoA,Cytosol
+C05265_c,3-Oxodecanoyl-CoA,Cytosol
+C05266_c,(S)-Hydroxyoctanoyl-CoA,Cytosol
+C05267_c,3-Oxooctanoyl-CoA,Cytosol
+C05268_c,(S)-Hydroxyhexanoyl-CoA,Cytosol
+C05269_c,3-Oxohexanoyl-CoA,Cytosol
+C05270_c,Hexanoyl-CoA,Cytosol
+C05271_c,trans-Hex-2-enoyl-CoA,Cytosol
+C05272_c,trans-Hexadec-2-enoyl-CoA,Cytosol
+C05273_c,trans-Tetradec-2-enoyl-CoA,Cytosol
+C05274_c,Decanoyl-CoA,Cytosol
+C05275_c,trans-Dec-2-enoyl-CoA,Cytosol
+C05276_c,trans-Oct-2-enoyl-CoA,Cytosol
+C05298_c,2-Hydroxyestrone,Cytosol
+C05300_c,16alpha-Hydroxyestrone,Cytosol
+C05301_c,2-Hydroxyestradiol,Cytosol
+C05332_c,Phenethylamine,Cytosol
+C05335_c,L-Selenomethionine,Cytosol
+C05337_c,Chenodeoxycholoyl-CoA,Cytosol
+C05338_c,4-Hydroxyphenylacetyl-CoA,Cytosol
+C05359_c,e-,Cytosol
+C05364_c,4-Carboxy-2-oxo-3-hexenedioate,Cytosol
+C05375_c,"2-Hydroxy-2-hydropyrone-4,6-dicarboxylate",Cytosol
+C05382_c,Sedoheptulose 7-phosphate,Cytosol
+C05394_c,3-Keto-beta-D-galactose,Cytosol
+C05399_c,Melibiitol,Cytosol
+C05400_c,Epimelibiose,Cytosol
+C05401_c,3-beta-D-Galactosyl-sn-glycerol,Cytosol
+C05402_c,Melibiose,Cytosol
+C05403_c,3-Ketolactose,Cytosol
+C05404_c,D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose,Cytosol
+C05413_c,Phytoene,Cytosol
+C05421_c,15-cis-Phytoene,Cytosol
+C05422_c,Dehydroascorbate,Cytosol
+C05427_c,Phytyl diphosphate,Cytosol
+C05431_c,Neurosporene,Cytosol
+C05432_c,Lycopene,Cytosol
+C05433_c,alpha-Carotene,Cytosol
+C05434_c,beta-Zeacarotene,Cytosol
+C05435_c,gamma-Carotene,Cytosol
+C05444_c,"3alpha,7alpha,26-Trihydroxy-5beta-cholestane",Cytosol
+C05445_c,"3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al",Cytosol
+C05447_c,"3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA",Cytosol
+C05448_c,"3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA",Cytosol
+C05449_c,"3alpha,7alpha-Dihydroxy-5beta-24-oxocholestanoyl-CoA",Cytosol
+C05450_c,"3alpha,7alpha,12alpha,24-Tetrahydroxy-5beta-cholestanoyl-CoA",Cytosol
+C05460_c,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA",Cytosol
+C05467_c,"3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA",Cytosol
+C05470_c,Tetrahydrocortisone,Cytosol
+C05472_c,Urocortisol,Cytosol
+C05478_c,"3alpha,21-Dihydroxy-5beta-pregnane-11,20-dione",Cytosol
+C05480_c,3alpha-Hydroxy-5beta-pregnane-20-one,Cytosol
+C05481_c,Cortolone,Cytosol
+C05482_c,Cortol,Cytosol
+C05483_c,"3alpha,20alpha,21-Trihydroxy-5beta-pregnane-11-one",Cytosol
+C05484_c,Pregnanediol,Cytosol
+C05485_c,21-Hydroxypregnenolone,Cytosol
+C05487_c,"17alpha,21-Dihydroxypregnenolone",Cytosol
+C05488_c,11-Deoxycortisol,Cytosol
+C05489_c,"11beta,17alpha,21-Trihydroxypregnenolone",Cytosol
+C05512_c,Deoxyinosine,Cytosol
+C05519_c,L-Allothreonine,Cytosol
+C05526_c,S-Glutathionyl-L-cysteine,Cytosol
+C05551_c,Penicillin G,Cytosol
+C05557_c,Isopenicillin N,Cytosol
+C05565_c,Hydantoin-5-propionate,Cytosol
+C05576_c,"3,4-Dihydroxyphenylethyleneglycol",Cytosol
+C05577_c,"3,4-Dihydroxymandelaldehyde",Cytosol
+C05578_c,"5,6-Dihydroxyindole",Cytosol
+C05581_c,3-Methoxy-4-hydroxyphenylacetaldehyde,Cytosol
+C05583_c,3-Methoxy-4-hydroxyphenylglycolaldehyde,Cytosol
+C05585_c,Gentisate aldehyde,Cytosol
+C05587_c,3-Methoxytyramine,Cytosol
+C05588_c,L-Metanephrine,Cytosol
+C05589_c,L-Normetanephrine,Cytosol
+C05596_c,p-Hydroxyphenylacetylglycine,Cytosol
+C05604_c,"2-Carboxy-2,3-dihydro-5,6-dihydroxyindole",Cytosol
+C05618_c,3-Chlorocatechol,Cytosol
+C05629_c,Phenylpropanoate,Cytosol
+C05634_c,5-Hydroxyindoleacetaldehyde,Cytosol
+C05635_c,5-Hydroxyindoleacetate,Cytosol
+C05636_c,3-Hydroxykynurenamine,Cytosol
+C05637_c,"4,8-Dihydroxyquinoline",Cytosol
+C05638_c,5-Hydroxykynurenamine,Cytosol
+C05639_c,"4,6-Dihydroxyquinoline",Cytosol
+C05640_c,Cinnavalininate,Cytosol
+C05651_c,5-Hydroxykynurenine,Cytosol
+C05653_c,Formylanthranilate,Cytosol
+C05659_c,5-Methoxytryptamine,Cytosol
+C05665_c,3-Aminopropanal,Cytosol
+C05668_c,3-Hydroxypropionyl-CoA,Cytosol
+C05670_c,3-Aminopropiononitrile,Cytosol
+C05686_c,Adenylylselenate,Cytosol
+C05688_c,L-Selenocysteine,Cytosol
+C05691_c,Se-Adenosylselenomethionine,Cytosol
+C05692_c,Se-Adenosyl-L-selenohomocysteine,Cytosol
+C05696_c,3'-Phosphoadenylylselenate,Cytosol
+C05697_c,Selenate,Cytosol
+C05698_c,Selenohomocysteine,Cytosol
+C05699_c,L-Selenocystathionine,Cytosol
+C05702_c,O-Phosphorylhomoserine,Cytosol
+C05703_c,Methaneselenol,Cytosol
+C05711_c,gamma-Glutamyl-beta-cyanoalanine,Cytosol
+C05744_c,Acetoacetyl-[acp],Cytosol
+C05745_c,Butyryl-[acp],Cytosol
+C05746_c,3-Oxohexanoyl-[acp],Cytosol
+C05747_c,(R)-3-Hydroxyhexanoyl-[acp],Cytosol
+C05748_c,trans-Hex-2-enoyl-[acp],Cytosol
+C05749_c,Hexanoyl-[acp],Cytosol
+C05750_c,3-Oxooctanoyl-[acp],Cytosol
+C05751_c,trans-Oct-2-enoyl-[acp],Cytosol
+C05752_c,Octanoyl-[acp],Cytosol
+C05753_c,3-Oxodecanoyl-[acp],Cytosol
+C05754_c,trans-Dec-2-enoyl-[acp],Cytosol
+C05755_c,Decanoyl-[acp],Cytosol
+C05756_c,3-Oxododecanoyl-[acp],Cytosol
+C05757_c,(R)-3-Hydroxydodecanoyl-[acp],Cytosol
+C05758_c,trans-Dodec-2-enoyl-[acp],Cytosol
+C05759_c,3-Oxotetradecanoyl-[acp],Cytosol
+C05760_c,trans-Tetradec-2-enoyl-[acp],Cytosol
+C05761_c,Tetradecanoyl-[acp],Cytosol
+C05762_c,3-Oxohexadecanoyl-[acp],Cytosol
+C05763_c,trans-Hexadec-2-enoyl-[acp],Cytosol
+C05764_c,Hexadecanoyl-[acp],Cytosol
+C05766_c,Uroporphyrinogen I,Cytosol
+C05768_c,Coproporphyrinogen I,Cytosol
+C05772_c,Precorrin 3A,Cytosol
+C05773_c,Cobyrinate,Cytosol
+C05774_c,Cobinamide,Cytosol
+C05775_c,alpha-Ribazole,Cytosol
+C05778_c,Sirohydrochlorin,Cytosol
+C05809_c,3-Octaprenyl-4-hydroxybenzoate,Cytosol
+C05810_c,2-Octaprenylphenol,Cytosol
+C05813_c,"2-Octaprenyl-6-methoxy-1,4-benzoquinone",Cytosol
+C05814_c,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone",Cytosol
+C05817_c,"(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate",Cytosol
+C05824_c,S-Sulfo-L-cysteine,Cytosol
+C05827_c,Methylimidazole acetaldehyde,Cytosol
+C05829_c,N-Carbamyl-L-glutamate,Cytosol
+C05830_c,8-Methoxykynurenate,Cytosol
+C05831_c,3-Methoxyanthranilate,Cytosol
+C05838_c,cis-2-Hydroxycinnamate,Cytosol
+C05839_c,cis-beta-D-Glucosyl-2-hydroxycinnamate,Cytosol
+C05840_c,Iminoaspartate,Cytosol
+C05841_c,Nicotinate D-ribonucleoside,Cytosol
+C05852_c,2-Hydroxyphenylacetate,Cytosol
+C05892_c,UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine,Cytosol
+C05893_c,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-,Cytosol
+C05897_c,Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-,Cytosol
+C05898_c,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-,Cytosol
+C05901_c,"3,3',4'5-Tetrahydroxystilbene",Cytosol
+C05921_c,Biotinyl-5'-AMP,Cytosol
+C05922_c,Formamidopyrimidine nucleoside triphosphate,Cytosol
+C05923_c,"2,5-Diaminopyrimidine nucleoside triphosphate",Cytosol
+C05928_c,10-Formyltetrahydrofolyl L-glutamate,Cytosol
+C05933_c,N-(omega)-Hydroxyarginine,Cytosol
+C05936_c,N4-Acetylaminobutanal,Cytosol
+C05938_c,L-4-Hydroxyglutamate semialdehyde,Cytosol
+C05946_c,D-4-Hydroxy-2-oxoglutarate,Cytosol
+C05947_c,L-erythro-4-Hydroxyglutamate,Cytosol
+C05966_c,15(S)-HPETE,Cytosol
+C05979_c,Propane-1-ol,Cytosol
+C05980_c,Cardiolipin,Cytosol
+C05983_c,Propionyladenylate,Cytosol
+C05985_c,2-Propynal,Cytosol
+C05986_c,2-Propyn-1-ol,Cytosol
+C05989_c,3-Oxopropionyl-CoA,Cytosol
+C05998_c,3-Hydroxyisovaleryl-CoA,Cytosol
+C06000_c,(S)-3-Hydroxyisobutyryl-CoA,Cytosol
+C06001_c,(S)-3-Hydroxyisobutyrate,Cytosol
+C06002_c,(S)-Methylmalonate semialdehyde,Cytosol
+C06006_c,(S)-2-Aceto-2-hydroxybutanoate,Cytosol
+C06007_c,"(R)-2,3-Dihydroxy-3-methylpentanoate",Cytosol
+C06010_c,(S)-2-Acetolactate,Cytosol
+C06032_c,D-erythro-3-Methylmalate,Cytosol
+C06054_c,2-Oxo-3-hydroxy-4-phosphobutanoate,Cytosol
+C06055_c,O-Phospho-4-hydroxy-L-threonine,Cytosol
+C06056_c,4-Hydroxy-L-threonine,Cytosol
+C06099_c,(+)-Limonene,Cytosol
+C06102_c,Adipate semialdehyde,Cytosol
+C06103_c,6-Hydroxyhexanoic acid,Cytosol
+C06104_c,Adipate,Cytosol
+C06108_c,Fluoroacetate,Cytosol
+C06114_c,gamma-Glutamyl-beta-aminopropiononitrile,Cytosol
+C06142_c,1-Butanol,Cytosol
+C06148_c,"2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-",Cytosol
+C06156_c,alpha-D-Glucosamine 1-phosphate,Cytosol
+C06187_c,Arbutin 6-phosphate,Cytosol
+C06188_c,Salicin 6-phosphate,Cytosol
+C06196_c,2'-Deoxyinosine 5'-phosphate,Cytosol
+C06199_c,Hordenine,Cytosol
+C06201_c,"2,4-Dihydroxyhept-2-enedioate",Cytosol
+C06205_c,"1,2-Dihydronaphthalene-1,2-diol",Cytosol
+C06206_c,Benzoyl phosphate,Cytosol
+C06231_c,Ectoine,Cytosol
+C06232_c,Molybdate,Cytosol
+C06244_c,Acetamide,Cytosol
+C06309_c,Diplopterol,Cytosol
+C06310_c,Diploptene,Cytosol
+C06319_c,Precorrin 6Y,Cytosol
+C06320_c,Precorrin 6X,Cytosol
+C06321_c,"1,6-Dihydroxy-cis-2,4-cyclohexadiene-1-carboxylic acid",Cytosol
+C06329_c,2-Chloromaleylacetate,Cytosol
+C06367_c,1-Carboxyvinyl carboxyphosphonate,Cytosol
+C06368_c,3-(Hydrohydroxyphosphoryl)pyruvate,Cytosol
+C06376_c,N-Acetyl-D-galactosamine 6-phosphate,Cytosol
+C06377_c,D-Galactosamine 6-phosphate,Cytosol
+C06399_c,Hydrogenobyrinate,Cytosol
+C06406_c,Precorrin 3B,Cytosol
+C06407_c,Precorrin 4,Cytosol
+C06408_c,Precorrin 8X,Cytosol
+C06416_c,Precorrin 5,Cytosol
+C06424_c,Tetradecanoic acid,Cytosol
+C06425_c,Icosanoic acid,Cytosol
+C06426_c,"(6Z,9Z,12Z)-Octadecatrienoic acid",Cytosol
+C06427_c,"(9Z,12Z,15Z)-Octadecatrienoic acid",Cytosol
+C06428_c,"(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid",Cytosol
+C06429_c,"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid",Cytosol
+C06441_c,L-Xylulose 1-phosphate,Cytosol
+C06442_c,N-gamma-Acetyldiaminobutyrate,Cytosol
+C06473_c,2-Keto-D-gluconic acid,Cytosol
+C06503_c,"Hydrogenobyrinate a,c diamide",Cytosol
+C06504_c,"Cob(II)yrinate a,c diamide",Cytosol
+C06505_c,"Cob(I)yrinate a,c diamide",Cytosol
+C06506_c,"Adenosyl cobyrinate a,c diamide",Cytosol
+C06507_c,Adenosyl cobyrinate hexaamide,Cytosol
+C06508_c,Adenosyl cobinamide,Cytosol
+C06509_c,Adenosyl cobinamide phosphate,Cytosol
+C06510_c,Adenosine-GDP-cobinamide,Cytosol
+C06548_c,Ethylene oxide,Cytosol
+C06552_c,Hydroxyatrazine,Cytosol
+C06553_c,N-Isopropylammelide,Cytosol
+C06554_c,Cyanuric acid,Cytosol
+C06556_c,Deisopropylatrazine,Cytosol
+C06557_c,Deisopropylhydroxyatrazine,Cytosol
+C06561_c,Naringenin chalcone,Cytosol
+C06597_c,"1,3,4,6-Tetrachloro-1,4-cyclohexadiene",Cytosol
+C06598_c,"2,4,5-Trichloro-2,5-cyclohexadiene-1-ol",Cytosol
+C06599_c,"2,5-Dichloro-2,5-cyclohexadiene-1,4-diol",Cytosol
+C06609_c,"trans-1,3-Dichloropropene",Cytosol
+C06610_c,"cis-1,3-Dichloropropene",Cytosol
+C06611_c,trans-3-Chloro-2-propene-1-ol,Cytosol
+C06612_c,cis-3-Chloro-2-propene-1-ol,Cytosol
+C06613_c,trans-3-Chloroallyl aldehyde,Cytosol
+C06614_c,trans-3-Chloroacrylic acid,Cytosol
+C06615_c,cis-3-Chloroacrylic acid,Cytosol
+C06626_c,4-Ketoanhydrochlortetracycline,Cytosol
+C06627_c,4-Keto-anhydrotetracycline,Cytosol
+C06672_c,Vanillate,Cytosol
+C06676_c,4-Sulfolactone,Cytosol
+C06677_c,Toluene-4-sulfonate,Cytosol
+C06714_c,3-Hydroxypimeloyl-CoA,Cytosol
+C06715_c,3-Oxopimeloyl-CoA,Cytosol
+C06718_c,S-Formylmycothiol,Cytosol
+C06730_c,4-Methylcatechol,Cytosol
+C06735_c,Aminoacetaldehyde,Cytosol
+C06752_c,"1,2-Dichloroethane",Cytosol
+C06753_c,2-Chloroethanol,Cytosol
+C06754_c,Chloroacetaldehyde,Cytosol
+C06755_c,Chloroacetic acid,Cytosol
+C06758_c,p-Tolualdehyde,Cytosol
+C06790_c,Trichloroethene,Cytosol
+C06813_c,Nitrobenzene,Cytosol
+C06868_c,Carbamazepine,Cytosol
+C06891_c,"D-2,3-Diketo 4-deoxy-epi-inositol",Cytosol
+C06892_c,2-Deoxy-5-keto-D-gluconic acid,Cytosol
+C06893_c,2-Deoxy-5-keto-D-gluconic acid 6-phosphate,Cytosol
+C06899_c,Chloral hydrate,Cytosol
+C06988_c,"beta-1,2,3,4,5,6-Hexachlorocyclohexane",Cytosol
+C07047_c,Ifosfamide,Cytosol
+C07054_c,Isoniazid,Cytosol
+C07073_c,Lidocaine,Cytosol
+C07086_c,Phenylacetic acid,Cytosol
+C07090_c,Protoanemonin,Cytosol
+C07091_c,cis-Acetylacrylate,Cytosol
+C07096_c,"2,6-Dichlorophenol",Cytosol
+C07097_c,"2,6-Dichlorohydroquinone",Cytosol
+C07098_c,"2,4,6-Trichlorophenol",Cytosol
+C07108_c,Tamoxifen,Cytosol
+C07114_c,Benzoyl acetate,Cytosol
+C07118_c,Benzoyl acetyl-CoA,Cytosol
+C07130_c,Theophylline,Cytosol
+C07163_c,Methadone,Cytosol
+C07185_c,Valproic acid,Cytosol
+C07209_c,3-Methylbenzaldehyde,Cytosol
+C07211_c,m-Methylbenzoate,Cytosol
+C07214_c,2-Methylbenzaldehyde,Cytosol
+C07215_c,o-Toluate,Cytosol
+C07271_c,"Limonene-1,2-epoxide",Cytosol
+C07335_c,2-Amino-3-oxo-4-phosphonooxybutyrate,Cytosol
+C07447_c,Acetylhydrazine,Cytosol
+C07480_c,Theobromine,Cytosol
+C07481_c,Caffeine,Cytosol
+C07490_c,Trichloroethanol,Cytosol
+C07496_c,"Carbamazepine-10,11-epoxide",Cytosol
+C07501_c,Felbamate,Cytosol
+C07535_c,Benzo[a]pyrene,Cytosol
+C07565_c,Acetanilide,Cytosol
+C07572_c,Citalopram,Cytosol
+C07585_c,N-Acetylisoniazid,Cytosol
+C07643_c,4-Hydroxycyclophosphamide,Cytosol
+C07644_c,4-Ketocyclophosphamide,Cytosol
+C07645_c,Aldophosphamide,Cytosol
+C07648_c,Thioguanine,Cytosol
+C07649_c,5-FU,Cytosol
+C07836_c,D-glycero-D-manno-Heptose 7-phosphate,Cytosol
+C07888_c,Cyclophosphamide,Cytosol
+C08012_c,Levomethadyl acetate,Cytosol
+C08276_c,3-(Methylthio)propionic acid,Cytosol
+C08362_c,(9Z)-Hexadecenoic acid,Cytosol
+C08586_c,delta-Carotene,Cytosol
+C08650_c,Isoliquiritigenin,Cytosol
+C08734_c,Ammelide,Cytosol
+C08735_c,"2-Chloro-4-hydroxy-6-amino-1,3,5-triazine",Cytosol
+C09332_c,Tetrahydrofolyl-[Glu](2),Cytosol
+C09812_c,2-Hydroxycyclohexane-1-carboxyl-CoA,Cytosol
+C09813_c,2-Ketocyclohexane-1-carboxyl-CoA,Cytosol
+C09815_c,Benzamide,Cytosol
+C09819_c,(Hydroxymethylphenyl)succinyl-CoA,Cytosol
+C09820_c,Benzoylsuccinyl-CoA,Cytosol
+C09825_c,6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA,Cytosol
+C09880_c,alpha-Pinene,Cytosol
+C10700_c,4'-Hydroxyacetophenone,Cytosol
+C10858_c,Ecgonine,Cytosol
+C10905_c,Activated methyl group,Cytosol
+C11004_c,"2,6-Dimethylaniline",Cytosol
+C11036_c,Bromobenzene,Cytosol
+C11038_c,2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate,Cytosol
+C11039_c,2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate,Cytosol
+C11088_c,"1,2-Dibromoethane",Cytosol
+C11148_c,TCE epoxide,Cytosol
+C11150_c,Trichloroacetate,Cytosol
+C11173_c,SN-38,Cytosol
+C11355_c,4-Amino-4-deoxychorismate,Cytosol
+C11356_c,"trans,trans,cis-Geranylgeranyl diphosphate",Cytosol
+C11405_c,(3R)-3-Isopropenyl-6-oxoheptanoate,Cytosol
+C11407_c,(3R)-3-Isopropenyl-6-oxoheptanoyl-CoA,Cytosol
+C11419_c,(3S)-3-Isopropenyl-6-oxoheptanoate,Cytosol
+C11421_c,(3S)-3-Isopropenyl-6-oxoheptanoyl-CoA,Cytosol
+C11422_c,Phenanthrene,Cytosol
+C11429_c,"Phenanthrene-9,10-oxide",Cytosol
+C11431_c,"Phenanthrene-1,2-oxide",Cytosol
+C11432_c,1-Phenanthrol,Cytosol
+C11434_c,2-C-Methyl-D-erythritol 4-phosphate,Cytosol
+C11435_c,4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol,Cytosol
+C11436_c,2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol,Cytosol
+C11437_c,1-Deoxy-D-xylulose 5-phosphate,Cytosol
+C11453_c,"2-C-Methyl-D-erythritol 2,4-cyclodiphosphate",Cytosol
+C11455_c,"4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol",Cytosol
+C11457_c,3-(3-Hydroxy-phenyl)-propanoic acid,Cytosol
+C11481_c,HSO3-,Cytosol
+C11508_c,"4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol",Cytosol
+C11514_c,(E)-3-(Methoxycarbonyl)pent-2-enedioate,Cytosol
+C11521_c,UDP-6-sulfoquinovose,Cytosol
+C11538_c,Cobalt-sirohydrochlorin,Cytosol
+C11539_c,Cobalt-precorrin 3,Cytosol
+C11540_c,Cobalt-precorrin 4,Cytosol
+C11542_c,Cobalt-precorrin 6,Cytosol
+C11543_c,Cobalt-dihydro-precorrin 6,Cytosol
+C11545_c,Cobalt-precorrin 8,Cytosol
+C11583_c,4-Glutathionyl cyclophosphamide,Cytosol
+C11588_c,"cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol",Cytosol
+C11638_c,3-Amino-2-oxopropyl phosphate,Cytosol
+C11713_c,2-Naphthol,Cytosol
+C11735_c,N-Ethylglycine,Cytosol
+C11736_c,5-Fluorodeoxyuridine,Cytosol
+C11811_c,1-Hydroxy-2-methyl-2-butenyl 4-diphosphate,Cytosol
+C11821_c,5-Hydroxyisourate,Cytosol
+C11831_c,Divinylprotochlorophyllide,Cytosol
+C11832_c,Divinyl chlorophyllide a,Cytosol
+C11907_c,"4,6-Dideoxy-4-oxo-dTDP-D-glucose",Cytosol
+C11915_c,"dTDP-3-methyl-4-oxo-2,6-dideoxy-L-glucose",Cytosol
+C11916_c,dTDP-L-mycarose,Cytosol
+C11922_c,"dTDP-4-oxo-2,6-dideoxy-D-glucose",Cytosol
+C11924_c,Perillic acid,Cytosol
+C11927_c,"dTDP-4-oxo-2,6-dideoxy-L-mannose",Cytosol
+C11929_c,Perillyl-CoA,Cytosol
+C11930_c,"dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose",Cytosol
+C11937_c,"(1S,4R)-1-Hydroxy-2-oxolimonene",Cytosol
+C11941_c,Pinocarveol,Cytosol
+C11943_c,"trans-2-Methyl-5-isopropylhexa-2,5-dienoic acid",Cytosol
+C11944_c,"cis-2-Methyl-5-isopropylhexa-2,5-dienoic acid",Cytosol
+C11945_c,"trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA",Cytosol
+C11946_c,"cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA",Cytosol
+C11947_c,"3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA",Cytosol
+C11948_c,"2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA",Cytosol
+C11949_c,3-Isopropylbut-3-enoyl-CoA,Cytosol
+C11950_c,3-Isopropylbut-3-enoic acid,Cytosol
+C12092_c,N-Methylanthraniloyl-CoA,Cytosol
+C12203_c,5-Hydroxyferuloyl-CoA,Cytosol
+C12213_c,Kanosamine 6-phosphate,Cytosol
+C12214_c,Aminofructose 6-phosphate,Cytosol
+C12215_c,Iminoerythrose 4-phosphate,Cytosol
+C12248_c,"5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate",Cytosol
+C12314_c,1-Oxa-2-oxo-3-hydroxycycloheptane,Cytosol
+C12448_c,Ecgonine methyl ester,Cytosol
+C12449_c,Pseudoecgonine,Cytosol
+C12450_c,Pseudoecgonyl-CoA,Cytosol
+C12621_c,3-Coumaric acid,Cytosol
+C12622_c,"cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol",Cytosol
+C12623_c,"trans-2,3-Dihydroxycinnamate",Cytosol
+C12650_c,Capecitabine,Cytosol
+C12739_c,5'-Deoxy-5-fluorouridine,Cytosol
+C12831_c,"3,4,6-Trichlorocatechol",Cytosol
+C12833_c,"2,3,5-Trichloro-cis,cis-muconate",Cytosol
+C12834_c,"2,5-Dichloro-carboxymethylenebut-2-en-4-olide",Cytosol
+C12835_c,"2,5-Dichloro-4-oxohex-2-enedioate",Cytosol
+C12838_c,trans-4-Carboxymethylenebut-2-en-4-olide,Cytosol
+C13309_c,"2-Phytyl-1,4-naphthoquinone",Cytosol
+C13624_c,Bisphenol A,Cytosol
+C13629_c,"1,2-Bis(4-hydroxyphenyl)-2-propanol",Cytosol
+C13631_c,"2,2-Bis(4-hydroxyphenyl)-1-propanol",Cytosol
+C13634_c,"2,3-Bis(4-hydroxyphenyl)-1,2-propanediol",Cytosol
+C13637_c,4-Ethylphenol,Cytosol
+C13638_c,1-(4'-Hydroxyphenyl)ethanol,Cytosol
+C13645_c,Hydrobromic acid,Cytosol
+C13712_c,3alpha-Hydroxy-5alpha-pregnan-20-one,Cytosol
+C13747_c,"1,7-Dimethylxanthine",Cytosol
+C14039_c,"1,1-Dichloroethylene",Cytosol
+C14040_c,1-Nitronaphthalene,Cytosol
+C14082_c,1-Methylnaphthalene,Cytosol
+C14088_c,3-Methylsalicylate,Cytosol
+C14089_c,1-Hydroxymethylnaphthalene,Cytosol
+C14090_c,1-Naphthaldehyde,Cytosol
+C14098_c,2-Methylnaphthalene,Cytosol
+C14099_c,2-Naphthaldehyde,Cytosol
+C14101_c,2-Naphthoic acid,Cytosol
+C14103_c,4-Methylsalicylate,Cytosol
+C14109_c,4-Hydroxymethylsalicylate,Cytosol
+C14110_c,4-Hydroxymethylcatechol,Cytosol
+C14115_c,Naphthyl-2-methyl-succinic acid,Cytosol
+C14116_c,Naphthyl-2-methyl-succinyl-CoA,Cytosol
+C14117_c,Naphthyl-2-methylene-succinyl-CoA,Cytosol
+C14119_c,Naphthyl-2-oxomethyl-succinyl-CoA,Cytosol
+C14120_c,2-Naphthoyl-CoA,Cytosol
+C14143_c,Adipyl-CoA,Cytosol
+C14144_c,5-Carboxy-2-pentenoyl-CoA,Cytosol
+C14145_c,(3S)-3-Hydroxyadipyl-CoA,Cytosol
+C14147_c,Cyromazine,Cytosol
+C14148_c,N-Cyclopropylammeline,Cytosol
+C14149_c,N-Cyclopropylammelide,Cytosol
+C14150_c,Cyclopropylamine,Cytosol
+C14220_c,"4,4'-Dihydroxybenzophenone",Cytosol
+C14298_c,Bis(4-hydroxyphenyl)methane,Cytosol
+C14315_c,Anthracene,Cytosol
+C14453_c,4-Bromophenol,Cytosol
+C14463_c,(R)-3-Hydroxy-3-methyl-2-oxopentanoate,Cytosol
+C14519_c,1-Hydroxypyrene,Cytosol
+C14556_c,9-Hydroxybenzo[a]pyrene,Cytosol
+C14610_c,"(S)-5-Oxo-2,5-dihydrofuran-2-acetate",Cytosol
+C14749_c,19(S)-HETE,Cytosol
+C14762_c,13(S)-HODE,Cytosol
+C14765_c,13-OxoODE,Cytosol
+C14768_c,"5,6-EET",Cytosol
+C14769_c,"8,9-EET",Cytosol
+C14770_c,"11,12-EET",Cytosol
+C14771_c,"14,15-EET",Cytosol
+C14778_c,16(R)-HETE,Cytosol
+C14781_c,"15H-11,12-EETA",Cytosol
+C14782_c,"11,12,15-THETA",Cytosol
+C14784_c,"1,2-Dihydroxy-3,4-epoxy-1,2,3,4-tetrahydronaphthalene",Cytosol
+C14786_c,"(1R,2S)-Naphthalene 1,2-oxide",Cytosol
+C14787_c,"(1S,2R)-Naphthalene 1,2-oxide",Cytosol
+C14791_c,"(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene",Cytosol
+C14792_c,"(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene",Cytosol
+C14793_c,"(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene",Cytosol
+C14800_c,"1-Nitronaphthalene-5,6-oxide",Cytosol
+C14801_c,"1-Nitro-5,6-dihydroxy-dihydronaphthalene",Cytosol
+C14802_c,"1-Nitronaphthalene-7,8-oxide",Cytosol
+C14803_c,"1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene",Cytosol
+C14804_c,"1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene",Cytosol
+C14805_c,"1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene",Cytosol
+C14806_c,"1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene",Cytosol
+C14813_c,"11H-14,15-EETA",Cytosol
+C14814_c,"11,14,15-THETA",Cytosol
+C14818_c,Fe2+,Cytosol
+C14819_c,Fe3+,Cytosol
+C14825_c,9(10)-EpOME,Cytosol
+C14826_c,12(13)-EpOME,Cytosol
+C14839_c,"Bromobenzene-3,4-oxide",Cytosol
+C14840_c,"Bromobenzene-2,3-oxide",Cytosol
+C14842_c,"Bromobenzene-2,3-dihydrodiol",Cytosol
+C14844_c,"Bromobenzene-3,4-dihydrodiol",Cytosol
+C14845_c,"4-Bromophenol-2,3-epoxide",Cytosol
+C14847_c,"3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene",Cytosol
+C14848_c,"2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene",Cytosol
+C14849_c,"Benzo[a]pyrene-9,10-oxide",Cytosol
+C14850_c,"Benzo[a]pyrene-7,8-oxide",Cytosol
+C14851_c,"Benzo[a]pyrene-4,5-oxide",Cytosol
+C14852_c,"Benzo[a]pyrene-7,8-diol",Cytosol
+C14853_c,"Benzo[a]pyrene-7,8-dihydrodiol-9,10-oxide",Cytosol
+C14854_c,"9-Hydroxybenzo[a]pyrene-4,5-oxide",Cytosol
+C14855_c,"4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene",Cytosol
+C14856_c,"7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene",Cytosol
+C14857_c,"1,1-Dichloroethylene epoxide",Cytosol
+C14858_c,"2,2-Dichloroacetaldehyde",Cytosol
+C14859_c,Chloroacetyl chloride,Cytosol
+C14861_c,"S-(2,2-Dichloro-1-hydroxy)ethyl glutathione",Cytosol
+C14863_c,2-(S-Glutathionyl)acetyl glutathione,Cytosol
+C14864_c,S-(2-Chloroacetyl)glutathione,Cytosol
+C14865_c,2-(S-Glutathionyl)acetyl chloride,Cytosol
+C14866_c,Chloral,Cytosol
+C14868_c,"S-(1,2-Dichlorovinyl)glutathione",Cytosol
+C14870_c,2-Bromoacetaldehyde,Cytosol
+C14871_c,S-(Formylmethyl)glutathione,Cytosol
+C14874_c,Glutathione episulfonium ion,Cytosol
+C150ACP_c,C150ACP,Cytosol
+C15505_c,"2,3,5,6-Tetrachlorophenol",Cytosol
+C15522_c,4a-Hydroxytetrahydrobiopterin,Cytosol
+C15525_c,Eriodictyol chalcone,Cytosol
+C15532_c,N-Acetyl-L-citrulline,Cytosol
+C15547_c,"1,4-Dihydroxy-2-naphthoyl-CoA",Cytosol
+C15556_c,"3,4-Dihydroxy-2-butanone 4-phosphate",Cytosol
+C15584_c,Phenols,Cytosol
+C15585_c,myo-Inositol phosphate,Cytosol
+C15599_c,"6-(2-Amino-2-carboxyethyl)-7,8-dioxo-1,2,3,4,7,8-hexahydroquinoline-",Cytosol
+C15606_c,"1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one",Cytosol
+C15613_c,"(25R)-3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-oyl-CoA",Cytosol
+C15650_c,"2,3-Diketo-5-methylthiopentyl-1-phosphate",Cytosol
+C15667_c,5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole,Cytosol
+C15670_c,Heme A,Cytosol
+C15672_c,Heme O,Cytosol
+C15673_c,2-Dehydro-L-idonate,Cytosol
+C15809_c,Iminoglycine,Cytosol
+C15815_c,C15815,Cytosol
+C15908_c,Chlorobactene,Cytosol
+C15943_c,Isorenieratene,Cytosol
+C16014_c,cis-Stilbene oxide,Cytosol
+C16015_c,"(+)-(1R,2R)-1,2-Diphenylethane-1,2-diol",Cytosol
+C16162_c,"(9Z,12Z,15Z)-Octadecatrienoyl-CoA",Cytosol
+C16165_c,"(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA",Cytosol
+C16168_c,"(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA",Cytosol
+C16169_c,"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA",Cytosol
+C16172_c,"(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA",Cytosol
+C16173_c,"(4Z,7Z,10Z,13Z,16Z)-Docosapentaenoyl-CoA",Cytosol
+C16181_c,"beta-2,3,4,5,6-Pentachlorocyclohexanol",Cytosol
+C16182_c,"beta-2,3,5,6-Tetrachloro-1,4-cyclohexanediol",Cytosol
+C16200_c,Phenylboronic acid,Cytosol
+C16205_c,"Anthracene-9,10-dihydrodiol",Cytosol
+C16216_c,3-Oxostearoyl-CoA,Cytosol
+C16217_c,3-Hydroxyoctadecanoyl-CoA,Cytosol
+C16219_c,3-Oxostearoyl-[acp],Cytosol
+C16220_c,3-Hydroxyoctadecanoyl-[acp],Cytosol
+C16221_c,(2E)-Octadecenoyl-[acp],Cytosol
+C16238_c,Lipoyl-AMP,Cytosol
+C16242_c,Cobalt-precorrin 5A,Cytosol
+C16243_c,Cobalt-precorrin 5B,Cytosol
+C16248_c,"2,6-Dibromohydroquinone",Cytosol
+C16267_c,Cyclopropanecarboxylate,Cytosol
+C16268_c,Cyclopropanecarboxyl-CoA,Cytosol
+C16273_c,3-Hydroxy-5-oxohexanoyl-CoA,Cytosol
+C16291_c,"7,8-Dihydro-beta-carotene",Cytosol
+C16327_c,OPC8-CoA,Cytosol
+C16328_c,trans-2-Enoyl-OPC8-CoA,Cytosol
+C16329_c,3-Hydroxy-OPC8-CoA,Cytosol
+C16330_c,3-Oxo-OPC8-CoA,Cytosol
+C16331_c,OPC6-CoA,Cytosol
+C16332_c,trans-2-Enoyl-OPC6-CoA,Cytosol
+C16333_c,3-Hydroxy-OPC6-CoA,Cytosol
+C16334_c,3-Oxo-OPC6-CoA,Cytosol
+C16335_c,OPC4-CoA,Cytosol
+C16336_c,trans-2-Enoyl-OPC4-CoA,Cytosol
+C16337_c,3-Hydroxy-OPC4-CoA,Cytosol
+C16338_c,3-Oxo-OPC4-CoA,Cytosol
+C16339_c,(+)-7-Isojasmonic acid CoA,Cytosol
+C16348_c,cis-3-Chloroallyl aldehyde,Cytosol
+C16353_c,7-Methylxanthine,Cytosol
+C16356_c,"1,7-Dimethyluric acid",Cytosol
+C16357_c,3-Methylxanthine,Cytosol
+C16358_c,1-Methylxanthine,Cytosol
+C16361_c,"1,3,7-Trimethyluric acid",Cytosol
+C16362_c,"3,6,8-Trimethylallantoin",Cytosol
+C16365_c,5-Acetylamino-6-formylamino-3-methyluracil,Cytosol
+C16374_c,"(2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahepta-2,6,9,12,15,18,21-enoyl-",Cytosol
+C16376_c,"(6Z,9Z,12Z,15Z,18Z,21Z)-3-Oxotetracosahexa-6,9,12,15,18,21-enoyl-CoA",Cytosol
+C16387_c,"(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexa-2,6,9,12,15,18-enoyl-CoA",Cytosol
+C16388_c,"(6Z,9Z,12Z,15Z,18Z)-3-Hydroxytetracosapenta-6,9,12,15,18-enoyl-CoA",Cytosol
+C16389_c,"(6Z,9Z,12Z,15Z,18Z)-3-Oxotetracosapenta-6,9,12,15,18-enoyl-CoA",Cytosol
+C16396_c,"2,4-Diamino-6-nitrotoluene",Cytosol
+C16399_c,"2,4-Diamino-6-hydroxylaminotoluene",Cytosol
+C16404_c,Pinocembrin chalcone,Cytosol
+C16405_c,Homoeriodictyol chalcone,Cytosol
+C16420_c,4-Acetamido-2-amino-6-nitrotoluene,Cytosol
+C16432_c,5-Hydroxyectoine,Cytosol
+C16461_c,Geranic acid,Cytosol
+C16465_c,trans-Geranyl-CoA,Cytosol
+C16466_c,7-Methyl-3-oxo-6-octenoyl-CoA,Cytosol
+C16468_c,"(2E)-5-Methylhexa-2,4-dienoyl-CoA",Cytosol
+C16469_c,3-Hydroxy-5-methylhex-4-enoyl-CoA,Cytosol
+C16470_c,5-Methylhex-4-enoyl-CoA,Cytosol
+C16471_c,5-Methyl-3-oxo-4-hexenoyl-CoA,Cytosol
+C16472_c,3-Fluorocatechol,Cytosol
+C16473_c,4-Fluorocatechol,Cytosol
+C16474_c,"3-Fluoro-cis,cis-muconate",Cytosol
+C16475_c,"2-Fluoro-cis,cis-muconate",Cytosol
+C16476_c,4-Fluoromuconolactone,Cytosol
+C16477_c,5-Fluoromuconolactone,Cytosol
+C16478_c,"3-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate",Cytosol
+C16479_c,"5-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate",Cytosol
+C16480_c,"4-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate",Cytosol
+C16481_c,"6-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate",Cytosol
+C16482_c,"2-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate",Cytosol
+C16487_c,Hydrofluoric acid,Cytosol
+C16519_c,2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate,Cytosol
+C16520_c,Hexadecenoyl-[acyl-carrier protein],Cytosol
+C16542_c,APC,Cytosol
+C16543_c,NPC,Cytosol
+C16544_c,alpha-Hydroxytamoxifen,Cytosol
+C16546_c,N-Desmethyltamoxifen,Cytosol
+C16547_c,4-Hydroxy-N-desmethyltamoxifen,Cytosol
+C16548_c,"N,N-Didesmethyltamoxifen",Cytosol
+C16549_c,alpha-Hydroxy-N-desmethyltamoxifen,Cytosol
+C16550_c,Dechloroethylcyclophosphamide,Cytosol
+C16551_c,Alcophosphamide,Cytosol
+C16553_c,4-Hydroxyifosfamide,Cytosol
+C16555_c,2-Dechloroethylifosfamide,Cytosol
+C16560_c,3-Hydroxylidocaine,Cytosol
+C16561_c,Monoethylglycinexylidide,Cytosol
+C16565_c,Aminopropylcadaverine,Cytosol
+C16582_c,2-Hydroxyfelbamate,Cytosol
+C16584_c,p-Hydroxyfelbamate,Cytosol
+C16586_c,"2-Phenyl-1,3-propanediol monocarbamate",Cytosol
+C16587_c,3-Carbamoyl-2-phenylpropionaldehyde,Cytosol
+C16595_c,"4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one",Cytosol
+C16596_c,"5-Phenyl-1,3-oxazinane-2,4-dione",Cytosol
+C16601_c,2-Hydroxycarbamazepine,Cytosol
+C16602_c,3-Hydroxycarbamazepine,Cytosol
+C16604_c,2-Hydroxyiminostilbene,Cytosol
+C16607_c,Citalopram N-oxide,Cytosol
+C16608_c,Demethylcitalopram,Cytosol
+C16609_c,Didemethylcitalopram,Cytosol
+C16612_c,Citalopram aldehyde,Cytosol
+C16614_c,6-Methylmercaptopurine,Cytosol
+C16615_c,6-Methylthiopurine 5'-monophosphate ribonucleotide,Cytosol
+C16617_c,6-Mercaptopurine ribonucleoside triphosphate,Cytosol
+C16618_c,6-Thioxanthine 5'-monophosphate,Cytosol
+C16619_c,6-Thioguanosine monophosphate,Cytosol
+C16622_c,"N,N'-Diacetylhydrazine",Cytosol
+C16630_c,"5,6-Dihydro-5-fluorouracil",Cytosol
+C16631_c,alpha-Fluoro-beta-ureidopropionic acid,Cytosol
+C16633_c,5-Fluorouridine,Cytosol
+C16634_c,5-Fluorouridine monophosphate,Cytosol
+C16635_c,5'-Deoxy-5-fluorocytidine,Cytosol
+C16637_c,5-Deoxyribose-1-phosphate,Cytosol
+C16641_c,Irinotecan,Cytosol
+C16647_c,"N,N-Diethylglycine",Cytosol
+C16648_c,2-n-Propyl-4-pentenoic acid,Cytosol
+C16649_c,4-Hydroxyvalproic acid,Cytosol
+C16650_c,5-Hydroxyvalproic acid,Cytosol
+C16651_c,3-Hydroxyvalproic acid,Cytosol
+C16659_c,"2-Ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine",Cytosol
+C16660_c,"2-Ethyl-5-methyl-3,3-diphenyl-1-pyrroline",Cytosol
+C16661_c,L-alpha-Acetyl-N-normethadol,Cytosol
+C16662_c,"L-alpha-Acetyl-N,N-dinormethadol",Cytosol
+C16672_c,Benzylpenicilloic acid,Cytosol
+C16677_c,all-trans-4-Hydroxyretinoic acid,Cytosol
+C16679_c,all-trans-18-Hydroxyretinoic acid,Cytosol
+C16680_c,"all-trans-5,6-Epoxyretinoic acid",Cytosol
+C16698_c,N-Acetylmuramic acid 6-phosphate,Cytosol
+C16737_c,5-Deoxy glucuronic acid,Cytosol
+C16826_c,"2-cis,6-trans-Farnesyl diphosphate",Cytosol
+C16834_c,1-Pentanol,Cytosol
+C16836_c,"1,4'-Bipiperidine-1'-carboxylic acid",Cytosol
+C16837_c,4-Amino-1-piperidinecarboxylic acid,Cytosol
+C170ACP_c,C170ACP,Cytosol
+C17234_c,2-Aminobut-2-enoate,Cytosol
+C17328_c,UDP-4-keto-rhamnose,Cytosol
+C17343_c,"(25S)-3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-oyl-CoA",Cytosol
+C17345_c,"(25R)-3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA",Cytosol
+C17346_c,"(25S)-3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA",Cytosol
+C17401_c,Cobalt-factor III,Cytosol
+C17556_c,"di-trans,poly-cis-Undecaprenyl phosphate",Cytosol
+C18026_c,Ethylmalonyl-CoA,Cytosol
+C18028_c,"L-Fucono-1,5-lactone",Cytosol
+C18032_c,"dTDP-4-oxo-2,3,6-trideoxy-D-glucose",Cytosol
+C18033_c,"dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose",Cytosol
+C18034_c,dTDP-D-forosamine,Cytosol
+C18042_c,"5alpha-Pregnane-3alpha,20alpha-diol",Cytosol
+C18215_c,Bis(4-hydroxyphenyl)methanol,Cytosol
+C18216_c,4-Hydroxyphenyl-4-hydroxybenzoate,Cytosol
+C18235_c,S-(Hydroxymethyl)mycothiol,Cytosol
+C18240_c,Tetrachlorocatechol,Cytosol
+C18241_c,"Tetrachloro-cis,cis-muconate",Cytosol
+C18242_c,"2,3,5-Trichlorodienelactone",Cytosol
+C18243_c,"2,3,5-Trichloromaleylacetate",Cytosol
+C18259_c,1-Methoxypyrene,Cytosol
+C18304_c,2-Chloro-5-methyl-cis-dienelactone,Cytosol
+C18305_c,2-Chloro-5-methylmaleylacetate,Cytosol
+C18309_c,3-Chloro-2-methyldienelactone,Cytosol
+C18310_c,3-Chloro-2-methylmaleylacetate,Cytosol
+C_AGL_c,AGL,Cytosol
+C_Spinosad_c,Spinosad,Cytosol
+C00865_c,Phospholipid,Cytosol
+C00889_c,Peptidoglycan,Cytosol
+C06707_c,Teichoic acid,Cytosol
+C_Cell_c,Cell,Cytosol
+C00245_e,Taurine_e,Extra_organism
+C06232_e,Molybdate_e,Extra_organism
+C14819_e,Fe3+_e,Extra_organism
+C00378_e,Thiamine_e,Extra_organism
+C00719_e,Betaine_e,Extra_organism
+C00114_e,Choline_e,Extra_organism
+C00919_e,Choline sulfate_e,Extra_organism
+C00059_e,Sulfate_e,Extra_organism
+C00244_e,Nitrate_e,Extra_organism
+C00487_e,Carnitine_e,Extra_organism
+C00208_e,maltose_e,Extra_organism
+C00794_e,D-Sorbitol_e,Extra_organism
+C00392_e,Mannitol_e,Extra_organism
+C00185_e,Cellobiose_e,Extra_organism
+C00121_e,D-Ribose_e,Extra_organism
+C01153_e,Orthophosphoric monoester_e,Extra_organism
+C00025_e,L-Glutamate_e,Extra_organism
+C00855_e,D-Methionine_e,Extra_organism
+C00012_e,Peptide_e,Extra_organism
+C00175_e,Cobalt ion_e,Extra_organism
+C00140_e,N-Acetyl-D-glucosamine_e,Extra_organism
+C00095_e,D-Fructose_e,Extra_organism
+C_Spinosad_e,Spinosad_e,Extra_organism
+C00014_e,NH3_e,Extra_organism
+C00001_e,H2O_e,Extra_organism
+C00007_e,Oxygen_e,Extra_organism
+C00011_e,CO2_e,Extra_organism
+C00058_e,Formate_e,Extra_organism
+C02323_e,Salicyl alcohol_e,Extra_organism
+C00160_e,Glycolate_e,Extra_organism
+C00084_e,Acetaldehyde_e,Extra_organism
+C00327_e,L-Citrulline_e,Extra_organism
+C00067_e,Formylanthranilate_e,Extra_organism
+C00116_e,Glycerol_e,Extra_organism
+C00184_e,Glycerone_e,Extra_organism
+C00242_e,Guanine_e,Extra_organism
+C00262_e,Hypoxanthine_e,Extra_organism
+C00577_e,D-Glyceraldehyde_e,Extra_organism
+C00086_e,Urea_e,Extra_organism
+C00385_e,Xanthine_e,Extra_organism
+C00033_e,Acetate_e,Extra_organism
+C00147_e,Adenine_e,Extra_organism
+C00212_e,Adenosine_e,Extra_organism
+C00026_e,2-Oxoglutarate_e,Extra_organism
+C00049_e,L-Aspartate_e,Extra_organism
+C00158_e,Citrate_e,Extra_organism
+C00475_e,Cytidine_e,Extra_organism
+C00380_e,Cytosine_e,Extra_organism
+C00559_e,Deoxyadenosine_e,Extra_organism
+C00133_e,D-Alanine_e,Extra_organism
+C00881_e,Deoxycytidine_e,Extra_organism
+C00330_e,Deoxyguanosine_e,Extra_organism
+C05512_e,Deoxyinosine_e,Extra_organism
+C00740_e,D-Serine_e,Extra_organism
+C00214_e,Thymidine_e,Extra_organism
+C00526_e,Deoxyuridine_e,Extra_organism
+C00469_e,Ethanol_e,Extra_organism
+C00122_e,Fumarate_e,Extra_organism
+C00334_e,4-Aminobutanoate_e,Extra_organism
+C00124_e,D-Galactose_e,Extra_organism
+C00064_e,L-Glutamate_e,Extra_organism
+C00031_e,D-Glucose_e,Extra_organism
+C00257_e,D-Gluconic acid_e,Extra_organism
+C00037_e,Glycine_e,Extra_organism
+C00387_e,Guanosine_e,Extra_organism
+C00135_e,L-Histidine_e,Extra_organism
+C00407_e,L-Isoleucine_e,Extra_organism
+C00294_e,Inosine_e,Extra_organism
+C00204_e,2-Dehydro-3-deoxy-D-gluconate_e,Extra_organism
+C00256_e,(R)-Lactate_e,Extra_organism
+C00123_e,L-Leucine_e,Extra_organism
+C00186_e,(S)-Lactate_e,Extra_organism
+C00047_e,L-Lysine_e,Extra_organism
+C00149_e,(S)-Malate_e,Extra_organism
+C05402_e,Melibiose_e,Extra_organism
+C00079_e,L-Phenylalanine_e,Extra_organism
+C00009_e,Orthophosphate_e,Extra_organism
+C00148_e,L-Proline_e,Extra_organism
+C00163_e,Propanoate_e,Extra_organism
+C00022_e,Pyruvate_e,Extra_organism
+C00507_e,L-Rhamnose_e,Extra_organism
+C00065_e,L-Serine_e,Extra_organism
+C00042_e,Succinate_e,Extra_organism
+C00188_e,L-Threonine_e,Extra_organism
+C00078_e,L-Tryptophan_e,Extra_organism
+C00106_e,Uracil_e,Extra_organism
+C00105_e,Uridine_e,Extra_organism
+C00183_e,L-Valine_e,Extra_organism
+C00080_e,H+_e,Extra_organism
+C00245_b,Taurine_b,Extra_organism
+C06232_b,Molybdate_b,Extra_organism
+C14819_b,Fe3+_b,Extra_organism
+C00378_b,Thiamine_b,Extra_organism
+C00719_b,Betaine_b,Extra_organism
+C00114_b,Choline_b,Extra_organism
+C00919_b,Choline sulfate_b,Extra_organism
+C00059_b,Sulfate_b,Extra_organism
+C00244_b,Nitrate_b,Extra_organism
+C00487_b,Carnitine_b,Extra_organism
+C00208_b,maltose_b,Extra_organism
+C00794_b,D-Sorbitol_b,Extra_organism
+C00392_b,Mannitol_b,Extra_organism
+C00185_b,Cellobiose_b,Extra_organism
+C00121_b,D-Ribose_b,Extra_organism
+C01153_b,Orthophosphoric monoester_b,Extra_organism
+C00025_b,L-Glutamate_b,Extra_organism
+C00855_b,D-Methionine_b,Extra_organism
+C00012_b,Peptide_b,Extra_organism
+C00175_b,Cobalt ion_b,Extra_organism
+C00140_b,N-Acetyl-D-glucosamine_b,Extra_organism
+C00095_b,D-Fructose_b,Extra_organism
+C_Spinosad_b,Spinosad_b,Extra_organism
+C00014_b,NH3_b,Extra_organism
+C00001_b,H2O_b,Extra_organism
+C00007_b,Oxygen_b,Extra_organism
+C00011_b,CO2_b,Extra_organism
+C00058_b,Formate_b,Extra_organism
+C02323_b,Salicyl alcohol_b,Extra_organism
+C00160_b,Glycolate_b,Extra_organism
+C00084_b,Acetaldehyde_b,Extra_organism
+C00327_b,L-Citrulline_b,Extra_organism
+C00067_b,Formylanthranilate_b,Extra_organism
+C00116_b,Glycerol_b,Extra_organism
+C00184_b,Glycerone_b,Extra_organism
+C00242_b,Guanine_b,Extra_organism
+C00262_b,Hypoxanthine_b,Extra_organism
+C00577_b,D-Glyceraldehyde_b,Extra_organism
+C00086_b,Urea_b,Extra_organism
+C00385_b,Xanthine_b,Extra_organism
+C00033_b,Acetate_b,Extra_organism
+C00147_b,Adenine_b,Extra_organism
+C00212_b,Adenosine_b,Extra_organism
+C00026_b,2-Oxoglutarate_b,Extra_organism
+C00049_b,L-Aspartate_b,Extra_organism
+C00158_b,Citrate_b,Extra_organism
+C00475_b,Cytidine_b,Extra_organism
+C00380_b,Cytosine_b,Extra_organism
+C00559_b,Deoxyadenosine_b,Extra_organism
+C00133_b,D-Alanine_b,Extra_organism
+C00881_b,Deoxycytidine_b,Extra_organism
+C00330_b,Deoxyguanosine_b,Extra_organism
+C05512_b,Deoxyinosine_b,Extra_organism
+C00740_b,D-Serine_b,Extra_organism
+C00214_b,Thymidine_b,Extra_organism
+C00526_b,Deoxyuridine_b,Extra_organism
+C00469_b,Ethanol_b,Extra_organism
+C00122_b,Fumarate_b,Extra_organism
+C00334_b,4-Aminobutanoate_b,Extra_organism
+C00124_b,D-Galactose_b,Extra_organism
+C00031_b,D-Glucose_b,Extra_organism
+C00257_b,D-Gluconic acid_b,Extra_organism
+C00037_b,Glycine_b,Extra_organism
+C00387_b,Guanosine_b,Extra_organism
+C00135_b,L-Histidine_b,Extra_organism
+C00407_b,L-Isoleucine_b,Extra_organism
+C00294_b,Inosine_b,Extra_organism
+C00204_b,2-Dehydro-3-deoxy-D-gluconate_b,Extra_organism
+C00256_b,(R)-Lactate_b,Extra_organism
+C00123_b,L-Leucine_b,Extra_organism
+C00186_b,(S)-Lactate_b,Extra_organism
+C00047_b,L-Lysine_b,Extra_organism
+C00149_b,(S)-Malate_b,Extra_organism
+C05402_b,Melibiose_b,Extra_organism
+C00079_b,L-Phenylalanine_b,Extra_organism
+C00009_b,Orthophosphate_b,Extra_organism
+C00148_b,L-Proline_b,Extra_organism
+C00163_b,Propanoate_b,Extra_organism
+C00022_b,Pyruvate_b,Extra_organism
+C00507_b,L-Rhamnose_b,Extra_organism
+C00065_b,L-Serine_b,Extra_organism
+C00042_b,Succinate_b,Extra_organism
+C00188_b,L-Threonine_b,Extra_organism
+C00078_b,L-Tryptophan_b,Extra_organism
+C00106_b,Uracil_b,Extra_organism
+C00105_b,Uridine_b,Extra_organism
+C00183_b,L-Valine_b,Extra_organism
+C_Cell_b,Cell_b,Extra_organism
+C00288_e,HCO3-_e,Extra_organism
+C00002_b,ATP_b,Extra_organism
+C00010_b,CoA_b,Extra_organism
+C00006_b,NADP+_b,Extra_organism
+C00005_b,NADPH_b,Extra_organism
+C00003_b,NAD+_b,Extra_organism
+C00004_b,NADH_b,Extra_organism
+C00229_b,Acyl-carrier protein_b,Extra_organism
+C00063_b,compound for test,Extra_organism
+C_H_e,H_e,Cytosol
+C_H,H,Cytosol
+C00302_c,DL-Glutamate,Cytosol
+C00506_c,L-Cysteate,Cytosol
+C00606_c,3-Sulfino-L-alanine,Cytosol
+C02378_c,6-Aminohexanoate,Cytosol
+C02718_c,N-Formiminoglycine,Cytosol
+C03409_c,N-Formimino-L-aspartate,Cytosol
+C05133_c,4-Imidazolone-5-acetate,Cytosol
+C05515_c,5-Ureido-4-imidazole carboxylate,Cytosol
+C05527_c,3-Sulfinylpyruvate,Cytosol
+C05528_c,3-Sulfopyruvate,Cytosol
+C05894_c,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-isoglutaminyl-L-lysyl-D-alanyl-D-alanine,Cytosol
+C06195_c,Imidazolone,Cytosol
+C06593_c,epsilon-Caprolactam,Cytosol
+C06625_c,Malonamoyl-CoA,Cytosol
