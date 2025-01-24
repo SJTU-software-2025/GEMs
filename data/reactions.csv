@@ -23,7 +23,7 @@
 ,R00115,2 Glutathione + NADP+ = Glutathione disulfide + NADPH + H+,2 C00051 + C00006 <=> C00127 + C00005 + C00080,FALSE,complement(NZ_AEYC01000001.1:434650..436047),1.8.1.7,rn00480
 ,R00118,NADP+ + H2O = Orthophosphate + NAD+,C00006 + C00001 <=> C00009 + C00003,FALSE,,3.1.3.-,rn00760
 ,R00130,ATP + Dephospho-CoA = ADP + CoA,C00002 + C00882 <=> C00008 + C00010,FALSE,coaE,2.7.1.24,rn00770
-,R00131,Urea + H2O = CO2 + 2 NH3,C00086 + C00001 <=> C00011 + 2 C00014,FALSE,ureC or ure A,3.5.1.5,rn00230 rn00330  rn00791
+,R00131,Urea + H2O = CO2 + 2 NH3,C00086 + C00001 <=> C00011 + 2 C00014,FALSE,ureC or ureA,3.5.1.5,rn00230 rn00330  rn00791
 ,R00132,Carbonic acid = CO2 + H2O,C01353 <=> C00011 + C00001,TRUE,,4.2.1.1,rn00910
 ,R00137,ATP + Nicotinamide D-ribonucleotide = Diphosphate + NAD+,C00002 + C00455 <=> C00013 + C00003,FALSE,,2.7.7.1         2.7.7.18,rn00760
 ,R00139,2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate + ATP =2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate + ADP,C11038 + C00002 <=> C11039 + C00008,FALSE,complement(NZ_AEYC01000019.1:316021..316419),2.7.4.6,rn00240
@@ -175,7 +175,7 @@
 ,R01209,"2,3-Dihydroxy-3-methylbutanoate = 3-Methyl-2-oxobutanoic acid +H2O",C04039 <=> C00141 + C00001,TRUE,complement(NZ_AEYC01000001.1:280402..282246) or NZ_AEYC01000023.1:47115..48809 or NZ_AEYC01000021.1:57863..59557 or complement(NZ_AEYC01000020.1:121967..123667),4.2.1.9,rn00770
 ,R01216,2-Dehydropantoate = 3-Methyl-2-oxobutanoic acid + Formaldehyde,C00966 <=> C00141 + C00067,TRUE,,2.1.2.11        4.1.2.12,not exist
 ,R01220,"5,10-Methylenetetrahydrofolate + NADP+ =5,10-Methenyltetrahydrofolate + NADPH",C00143 + C00006 <=> C00445 + C00005,TRUE,,1.5.1.5,rn00670
-,R01221,"Glycine + Tetrahydrofolate + NAD+ = 5,10-Methylenetetrahydrofolate+ NH3 + CO2 + NADH + H+",C00037 + C00101 + C00003 <=> C00143 + C00014 + C00011 + C00004 +C00080,FALSE,[NZ_AEYC01000006.1:19712..22606] or [NZ_AEYC01000023.1:41338..41667 or NZ_AEYC01000019.1:16163..17533] or [gvcT],1.4.4.2         1.8.1.4         2.1.2.10,rn00260 rn00910 rn00670
+,R01221,"Glycine + Tetrahydrofolate + NAD+ = 5,10-Methylenetetrahydrofolate+ NH3 + CO2 + NADH + H+",C00037 + C00101 + C00003 <=> C00143 + C00014 + C00011 + C00004 +C00080,FALSE,NZ_AEYC01000006.1:19712..22606 or (NZ_AEYC01000023.1:41338..41667 or NZ_AEYC01000019.1:16163..17533) or gvcT,1.4.4.2         1.8.1.4         2.1.2.10,rn00260 rn00910 rn00670
 ,R01224,"5,10-Methylenetetrahydrofolate+ NADPH + H+ = 5-Methyltetrahydrofolate + NADP+",C00143 + C00005 + C00080 <=> C00440 + C00006,FALSE,,1.5.1.20,rn00670 rn00680
 ,R01226,"5,10-Methylenetetrahydrofolate + 3-Methyl-2-oxobutanoic acid + H2O= Tetrahydrofolate + 2-Dehydropantoate",C00143 + C00141 + C00001 <=> C00101 + C00966,FALSE,,2.1.2.11,rn00770
 ,R01243,Aryl sulfate + H2O = Phenol + Sulfate,C00850 + C00001 <=> C15584 + C00059,FALSE,,3.1.6.1,not exist
@@ -303,7 +303,7 @@
 ,R02382,Tyramine + H2O + Oxygen = 4-Hydroxyphenylacetaldehyde + NH3 + H2O2,C00483 + C00001 + C00007 <=> C03765 + C00014 + C00027,FALSE,,1.4.3.4         1.4.3.21        1.4.9.2,rn00350
 ,R02387,Acetyl-CoA + Aniline = CoA + N-Phenylacetamide,C00024 + C00292 <=> C00010 + C07565,TRUE,,2.3.1.5,not exist
 ,R02396,Acetyl-CoA + Carnitine = CoA + O-Acetylcarnitine,C00024 + C00487 <=> C00010 + C02571,FALSE,,2.3.1.7,not exist
-,R02404,ATP + Itaconate + CoA = ADP + Orthophosphate + Itaconyl-CoA,C00002 + C00490 + C00010 <=> C00008 + C00009 + C00531,FALSE,complement(NZ_AEYC01000095.1:19309..20475) or complement(NZ_AEYC01000095.1:18421..19305) ,6.2.1.5,rn00660
+,R02404,ATP + Itaconate + CoA = ADP + Orthophosphate + Itaconyl-CoA,C00002 + C00490 + C00010 <=> C00008 + C00009 + C00531,FALSE,complement(NZ_AEYC01000095.1:19309..20475) or complement(NZ_AEYC01000095.1:18421..19305),6.2.1.5,rn00660
 ,R02408,L-Cystine + H2O = Pyruvate + NH3 + Thiocysteine,C00491 + C00001 <=> C00022 + C00014 + C01962,FALSE,NZ_AEYC01000001.1:311535..312641,4.4.1.1         4.4.1.8,rn00270
 ,R02422,Allantoate + H2O = (-)-Ureidoglycolate + Urea,C00499 + C00001 <=> C00603 + C00086,FALSE,,3.5.3.4,rn00230
 ,R02424,Allantoin + H2O = Allantoate,C01551 + C00001 <=> C00499,TRUE,,3.5.2.5,not exist
@@ -1048,7 +1048,7 @@
 ,R09222,2-Chloro-5-methyl-cis-dienelactone + H2O = 2-Chloro-5-methylmaleylacetate,C18304 + C00001 <=> C18305,TRUE,,3.1.1.45,rn00623
 ,R09229,"3-Methyl-cis,cis-hexadienedioate = 3-Methylmuconolactone",C04112 <=> C04558,TRUE,,5.5.1.1,rn00623
 ,R09247,"trans,trans-Farnesyl diphosphate + 4 Isopentenyl diphosphate = all-trans-Heptaprenyl diphosphate + 4 Diphosphate",C00448 + 4 C00129 <=> C04216 + 4 C00013,TRUE,,2.5.1.30,rn00900
-,R_NAD,NADH + 5 H+ = NAD+ + 6 H_e,C00004 + 5 C_H <=> C00003 + 6 C_H_e,FALSE,,,
+,R_NAD,NADH + 5 H+ = NAD+ + 6 H_e,C00004 + 5 C_H_e <=> C00003 + 6 C_H_e,FALSE,,,
 ,R_FAD,FADH2 = FAD + 2 H_e,C01352 <=> C00016 + 2 C_H_e,FALSE,,,
 ,R_ATP,4 H_e + Oxygen + ADP + Orthophosphate = ATP + 3 H2O,4 C_H_e + C00007 + C00008 + C00009 <=> C00002 + 3 C00001 ,FALSE,,,
 ,R00086,ATP + H2O = ADP + Orthophosphate,C00002 + C00001 <=> C00008 + C00009,FALSE,,3.6.1.3     3.6.1.5      3.6.1.8  3.6.1.15,not exist
@@ -1247,9 +1247,9 @@ Nucleotide synthesis pathway      ,R01072,L-Glutamine + 5-Phospho-alpha-D-ribose
 ,R01714,5-O-(1-Carboxyvinyl)-3-phosphoshikimate = Chorismate +Orthophosphate,C01269 <=> C00251 + C00009,FALSE,complement(NZ_AEYC01000054.1:44984..46177),4.2.3.5,rn00400
 ,R01715,Chorismate = Prephenate,C00251 <=> C00254,TRUE,,5.4.99.5,rn00400
 ,R01373,Prephenate = Phenylpyruvate + H2O + CO2,C00254 <=> C00166 + C00001 + C00011,TRUE,,4.2.1.51        4.2.1.91,rn00400
-,R00694,L-Phenylalanine + 2-Oxoglutarate = Phenylpyruvate + L-Glutamate,C00079 + C00026 <=> C00166 + C00025,TRUE,[NZ_AEYC01000092.1:39551..40780 or complement(NZ_AEYC01000088.1:123824..125062) or NZ_AEYC01000038.1:62797..64023 or complement(NZ_AEYC01000022.1:36426..37646)] or [NZ_AEYC01000004.1:131214..132173] or [NZ_AEYC01000092.1:39551..40780 or complement(NZ_AEYC01000088.1:123824..125062) or NZ_AEYC01000038.1:62797..64023 or complement(NZ_AEYC01000022.1:36426..37646)],2.6.1.1         2.6.1.5         2.6.1.9         2.6.1.57,rn00360  rn00400  rn00960
+,R00694,L-Phenylalanine + 2-Oxoglutarate = Phenylpyruvate + L-Glutamate,C00079 + C00026 <=> C00166 + C00025,TRUE,(NZ_AEYC01000092.1:39551..40780 or C-NZ_AEYC01000088.1:123824..125062 or NZ_AEYC01000038.1:62797..64023 or C-NZ_AEYC01000022.1:36426..37646) or NZ_AEYC01000004.1:131214..132173 or (NZ_AEYC01000092.1:39551..40780 or C-NZ_AEYC01000088.1:123824..125062 or NZ_AEYC01000038.1:62797..64023 or C-NZ_AEYC01000022.1:36426..37646),2.6.1.1         2.6.1.5         2.6.1.9         2.6.1.57,rn00360  rn00400  rn00960
 ,R01728,Prephenate + NAD+ = 3-(4-Hydroxyphenyl)pyruvate + CO2 + NADH + H+,C00254 + C00003 <=> C01179 + C00011 + C00004 + C00080,FALSE,complement(NZ_AEYC01000029.1:108522..109523),1.3.1.12,rn00400  rn00401
-,R00734,L-Tyrosine + 2-Oxoglutarate = 3-(4-Hydroxyphenyl)pyruvate + L-Glutamate,C00082 + C00026 <=> C01179 + C00025,TRUE,[NZ_AEYC01000092.1:39551..40780 or complement(NZ_AEYC01000088.1:123824..125062) or NZ_AEYC01000038.1:62797..64023 or complement(NZ_AEYC01000022.1:36426..37646)] or [NZ_AEYC01000004.1:131214..132173] or [NZ_AEYC01000092.1:39551..40780 or complement(NZ_AEYC01000088.1:123824..125062) or NZ_AEYC01000038.1:62797..64023 or complement(NZ_AEYC01000022.1:36426..37646)],2.6.1.1         2.6.1.5         2.6.1.9         2.6.1.57,rn00130  rn00350  rn00400  rn00401  rn00950
+,R00734,L-Tyrosine + 2-Oxoglutarate = 3-(4-Hydroxyphenyl)pyruvate + L-Glutamate,C00082 + C00026 <=> C01179 + C00025,TRUE,(NZ_AEYC01000092.1:39551..40780 or C-NZ_AEYC01000088.1:123824..125062 or NZ_AEYC01000038.1:62797..64023 or C-NZ_AEYC01000022.1:36426..37646) or NZ_AEYC01000004.1:131214..132173 or (NZ_AEYC01000092.1:39551..40780 or C-NZ_AEYC01000088.1:123824..125062 or NZ_AEYC01000038.1:62797..64023 or C-NZ_AEYC01000022.1:36426..37646),2.6.1.1         2.6.1.5         2.6.1.9         2.6.1.57,rn00130  rn00350  rn00400  rn00401  rn00950
 ,R00986,Chorismate + L-Glutamine = Anthranilate + Pyruvate + L-Glutamate,C00251 + C00064 <=> C00108 + C00022 + C00025,FALSE,NZ_AEYC01000004.1:143818..145395,4.1.3.27,rn00400
 ,R00985,Chorismate + NH3 = Anthranilate + Pyruvate + H2O,C00251 + C00014 <=> C00108 + C00022 + C00001,FALSE,NZ_AEYC01000004.1:143818..145395,4.1.3.27,rn00400
 ,R01073,Anthranilate +5-Phospho-alpha-D-ribose 1-diphosphate = N-(5-Phospho-D-ribosyl)anthranilate + Diphosphate,C00108 + C00119 <=> C04302 + C00013,TRUE,,2.4.2.18,rn00400
