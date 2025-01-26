@@ -28,7 +28,7 @@
 ,R00137,ATP + Nicotinamide D-ribonucleotide = Diphosphate + NAD+,C00002 + C00455 <=> C00013 + C00003,FALSE,,2.7.7.1         2.7.7.18,rn00760
 ,R00139,2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate + ATP =2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate + ADP,C11038 + C00002 <=> C11039 + C00008,FALSE,complement(NZ_AEYC01000019.1:316021..316419),2.7.4.6,rn00240
 ,R00161,ATP + FMN = Diphosphate + FAD,C00002 + C00061 <=> C00013 + C00016,FALSE,,2.7.7.2,rn00740
-,R00177,ATP +L-Methionine + H2O = Orthophosphate + Diphosphate + S-Adenosyl-L-methionine,C00002 + C00073 + C00001 <=> C00009 + C00013 + C00019,FALSE,SAM-s,2.5.1.6,rn00270
+,R00177,ATP + L-Methionine + H2O = Orthophosphate + Diphosphate + S-Adenosyl-L-methionine,C00002 + C00073 + C00001 <=> C00009 + C00013 + C00019,FALSE,SAM-s,2.5.1.6,rn00270
 ,R00178,S-Adenosyl-L-methionine + H+ = S-Adenosylmethioninamine + CO2,C00019 + C00080 <=> C01137 + C00011,FALSE,,4.1.1.50,rn00270 rn00330
 ,R00189,ATP + Deamino-NAD+ + NH3 = AMP + Diphosphate + NAD+,C00002 + C00857 + C00014 <=> C00020 + C00013 + C00003,FALSE,,6.3.1.5         6.3.5.1,rn00760
 ,R00192,S-Adenosyl-L-homocysteine + H2O = Adenosine + L-Homocysteine,C00021 + C00001 <=> C00212 + C00155,FALSE,complement(NZ_AEYC01000008.1:170353..171813) or complement(NZ_AEYC01000063.1:51885..52004) or complement(NZ_AEYC01000063.1:52014..53474),3.3.1.1,rn00270
@@ -235,7 +235,7 @@
 ,R01698,Dihydrolipoamide + NAD+ = Lipoamide + NADH + H+,C00579 + C00003 <=> C00248 + C00004 + C00080,TRUE,NZ_AEYC01000023.1:41338..41667 or NZ_AEYC01000019.1:16163..17533,1.8.1.4,not exist
 ,R01716,Chorismate + L-Glutamine = 4-Amino-4-deoxychorismate + L-Glutamate,C00251 + C00064 <=> C11355 + C00025,TRUE,NZ_AEYC01000096.1:74697..76004,2.6.1.85,rn00790
 ,R01717,Chorismate = Isochorismate,C00251 <=> C00885,TRUE,NZ_AEYC01000006.1:7218..8462,5.4.4.2,rn00130  rn01053
-,R01724,Nicotinate +5-Phospho-alpha-D-ribose 1-diphosphate = Nicotinate D-ribonucleotide + Diphosphate,C00253 + C00119 <=> C01185 + C00013,FALSE,complement(NZ_AEYC01000064.1:10872..12188),2.4.2.11,rn00760
+,R01724,Nicotinate + 5-Phospho-alpha-D-ribose 1-diphosphate = Nicotinate D-ribonucleotide + Diphosphate,C00253 + C00119 <=> C01185 + C00013,FALSE,complement(NZ_AEYC01000064.1:10872..12188),2.4.2.11,rn00760
 ,R01745,D-Glycerate + NAD+ = 2-Hydroxy-3-oxopropanoate + NADH + H+,C00258 + C00003 <=> C01146 + C00004 + C00080,TRUE,,1.1.1.60,rn00630
 ,R01751,"(R,R)-Tartaric acid = D-Glycerate + CO2",C00898 <=> C00258 + C00011,FALSE,,4.1.1.73,not exist
 ,R01752,D-Glyceraldehyde + NAD+ + H2O = D-Glycerate + NADH + H+,C00577 + C00003 + C00001 <=> C00258 + C00004 + C00080,TRUE,,1.2.1.3,not exist
@@ -379,7 +379,7 @@
 ,R03026,(S)-3-Hydroxybutanoyl-CoA = Crotonoyl-CoA + H2O,C01144 <=> C00877 + C00001,FALSE,NZ_AEYC01000076.1:65779..66582 or complement(NZ_AEYC01000050.1:11011..11862) or complement(NZ_AEYC01000089.1:24584..25372) or NZ_AEYC01000088.1:341279..342058,4.2.1.17        4.2.1.55,rn00071  rn00310  rn00380  rn00362  rn00720  rn00627  rn00650
 ,R03033,D-Galactonate = 2-Dehydro-3-deoxy-D-galactonate + H2O,C00880 <=> C01216 + C00001,TRUE,,4.2.1.6,rn00052
 ,R03035,ATP + Pantetheine 4'-phosphate = Diphosphate + Dephospho-CoA,C00002 + C01134 <=> C00013 + C00882,FALSE,,2.7.7.3,rn00770
-,R03037,"Isochorismate + H2O = (2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate +Pyruvate",C00885 + C00001 <=> C04171 + C00022,FALSE,,3.3.2.1,not exist
+,R03037,"Isochorismate + H2O = (2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate + Pyruvate",C00885 + C00001 <=> C04171 + C00022,FALSE,,3.3.2.1,not exist
 ,R03051,"2-Acetolactate + NADPH + H+ = 2,3-Dihydroxy-3-methylbutanoate +NADP+",C00900 + C00005 + C00080 <=> C04039 + C00006,TRUE,NZ_AEYC01000001.1:286052..287047 or NZ_AEYC01000088.1:411799..412812,1.1.1.86,rn00770
 ,R03055,"5,6-Dihydrothymine + H2O = 3-Ureidoisobutyrate",C00906 + C00001 <=> C05100,TRUE,,3.5.2.2,rn00240
 ,R03065,Acetyl-CoA + Chloramphenicol = CoA + Chloramphenicol 3-acetate,C00024 + C00918 <=> C00010 + C03601,FALSE,,2.3.1.28,not exist
