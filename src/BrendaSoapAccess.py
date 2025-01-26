@@ -196,6 +196,13 @@ for _, row in reaction_data.iterrows():
 reaction_data_test['TurnoverNumber_Reactant2AsSubstrate'] = turnover_numbers_Reactant2
 reaction_data_test['TurnoverNumber_Reactant2AsSubstrate'].count()
 
+# 将列表转换为 DataFrame
+df = pd.DataFrame(turnover_numbers_Reactant1, columns=['TurnoverNumber'])
+# 将 DataFrame 存储为 Excel 文件
+df.to_excel('../data/使用第一个反应物+EC编号搜索到的酶kcat值.xlsx', index=False, engine='openpyxl')  # 不保存索引
+df2 = pd.DataFrame(turnover_numbers_Reactant2, columns=['TurnoverNumber'])
+df2.to_excel('../data/使用第二个反应物+EC编号搜索到的酶kcat值.xlsx', index=False, engine='openpyxl')  # 不保存索引
+
 # 使用 combine_first 来合并两列
 reaction_data_test['TurnoverNumber'] = reaction_data_test['TurnoverNumber_Reactant1AsSubstrate'].combine_first(reaction_data_test['TurnoverNumber_Reactant2AsSubstrate'])
 print(reaction_data_test['TurnoverNumber'].count())

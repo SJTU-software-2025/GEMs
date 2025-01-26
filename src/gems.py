@@ -66,7 +66,7 @@ for _, row in reaction_data.iterrows():
         reactant = reactant.strip()  # 去掉空格
         # 检查是否包含化学计量系数（如 2 C00013）
         if ' ' in reactant:
-            coeff, r_id = reactant.split(' ', 1) #1?
+            coeff, r_id = reactant.split(' ', 1)
             coeff = float(coeff)  # 转换为数值
         else:
             coeff, r_id = 1.0, reactant  # 如果没有化学计量系数，默认为1
