@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+./src/extract_gene_from_accession.ipynb
+./src/DeepEnzyme.ipynb
+./src/BrendaSoapAccess.ipynb
