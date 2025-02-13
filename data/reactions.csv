@@ -1391,9 +1391,7 @@ Biomass,R_Protein,1.230 L-Alanine + 0.778 L-Arginine + 0.166 L-Asparagine + 0.55
 ,R_Polysaccharide,1.897 UDP-N-acetyl-D-glucosamine + 3.794 UDP-D-galactose = 5.691 UDP + Polysaccharide,1.897 C00043 + 3.794 C00052 <=> 5.691 C00015 + C00420,FALSE,,,
 ,R_Teichoic,6.216 sn-Glycerol 3-phosphate + 6.216 CTP + 0.129 L-Lysine + 0.129 UDP-N-acetyl-D-glucosamine + 0.129 ATP = Teichoic acid + 0.129 UDP + 0.129 ADP + 0.129 Orthophosphate + 6.216 CMP + 6.216 Diphosphate,6.216 C00093 + 6.216 C00063 + 0.129 C00047 + 0.129 C00043 + 0.129 C00002 <=> C06707 + 0.129 C00015 + 0.129 C00008 + 0.129 C00009 + 6.216 C00055 + 6.216 C00013,FALSE,,,
 ,R_Cell,0.425 Protein + 0.172 RNA + 0.037 DNA + 0.028 Phospholipid + 0.019 Triacylglycerol + 0.113 Peptidoglycan + 0.045 Polysaccharide + 0.068 Teichoic acid + 47 ATP = Cell + 47 ADP + 47 Orthophosphate,0.425 C00017 + 0.172 C00046 + 0.037 C00039 + 0.028 C00865 + 0.019 C00422 + 0.113 C00889 + 0.045 C00420 + 0.068 C06707 + 47 C00002 <=> C_Cell + 47 C00008 + 47 C00009,FALSE,,,
-"Transport Reaction
-
-",R_Taurine,Taurine_e + ATP = Taurine + AMP + Orthophosphate,C00245_e + C00002 <=> C00245 + C00008 +C00009,FALSE,,,
+Transport Reaction,R_Taurine,Taurine_e + ATP = Taurine + AMP + Orthophosphate,C00245_e + C00002 <=> C00245 + C00008 +C00009,FALSE,,,
 ,R_Molybdate,Molybdate_e + ATP = Molybdate + AMP + Orthophosphate,C06232_e + C00002 <=> C06232 + C00008 + C00009,FALSE,,,
 ,R_Fe3+,Fe3+_e + ATP = Fe3+ + AMP + Orthophosphate,C14819_e + C00002 <=> C14819 + C00008 + C00009,FALSE,,,
 ,R_Thiamine,Thiamine_e + ATP = Thiamine + AMP + Orthophosphate,C00378_e + C00002 <=> C00378 + C00008 + C00009,FALSE,,,

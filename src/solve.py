@@ -11,7 +11,7 @@ def set_production_objective(model, target_metabolite):
     try:
         target = model.metabolites.get_by_id(target_metabolite)
         # 创建输出反应
-        export_reaction = model.reactions.get_by_id(f"R_Spinosad_b")
+        export_reaction = model.reactions.get_by_id("R_Spinosad")
         model.objective = export_reaction
         print(f"目标设置为: {target.name} 的最大化生产")
     except KeyError:
@@ -38,23 +38,14 @@ def main():
 
     # 读取模型
     print("加载模型...")
-    model = load_json_model("model/Saccharopolyspora_spinosa.json")
+    model = load_json_model("model/Saccharopolyspora_spinosa_boundaries.json")
     print(f"模型加载完成，包含:")
     print(f"- {len(model.metabolites)} 个代谢物")
     print(f"- {len(model.reactions)} 个反应")
     print(f"- {len(model.genes)} 个基因")
 
     # 设置目标产物
-    set_production_objective(model, 'C_Spinosad_b')
-
-    # 定义培养基条件
-    medium = {
-        'glucose': (-10, 0),  # 葡萄糖摄入
-        'o2': (-20, 0),      # 氧气摄入
-        'nh4': (-5, 0),      # 氨摄入
-        'pi': (-5, 0)        # 无机磷摄入
-    }
-    define_medium(model, medium)
+    set_production_objective(model, 'C_Spinosad_e')
 
     # 运行FBA
     try:

@@ -43,6 +43,15 @@ else:
     # 添加代谢物
     print("添加代谢物到模型...")
     for _, metabolite in tqdm.tqdm(metabolites.items()):
+        # 代谢物id以_b结尾的不需要添加
+        if metabolite.id.endswith("_b"):
+            continue
+        # 代谢物id以_e结尾的将其compartment改为e
+        if metabolite.id.endswith("_e"):
+            metabolite.compartment = 'e'
+        # 代谢物id以_c结尾的将其compartment改为c
+        if metabolite.id.endswith("_c"):
+            metabolite.compartment = 'c'
         model.add_metabolites(metabolite)
 
 # 加载 reactions.csv
@@ -58,7 +67,9 @@ try:
                            desc="添加反应"):
         try:
             reaction_id = row["Reaction ID"]
-            # id 以 "_b" 结尾的反应表示是交换反应 ##### 待修改 #####
+            # id 以 "_b" 结尾的反应表示是交换反应不需要添加
+            if reaction_id.endswith("_b"):
+                continue
             reaction_name = row["Reaction (Long)"]
             reaction_subsystem = row["Subsystem"]
             # 判断反应是否可逆
