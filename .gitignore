@@ -77,6 +77,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+src/*.ipynb
 
 # IPython
 profile_default/
@@ -129,7 +130,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv/
 env/
 venv/
 ENV/
@@ -169,10 +170,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-cache
-./src/extract_gene_from_accession.ipynb
-./src/DeepEnzyme.ipynb
-./src/BrendaSoapAccess.ipynb
-src/LLM_tools
+
+# 缓存文件
+cache/
+__pycache__/
+*.pyc
+
+# 测试文件
 src/test.py
 src/gems_test.py
+
+# 工具目录
+src/LLM_tools/
