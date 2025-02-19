@@ -1,6 +1,6 @@
 from cobra import Configuration
 from cobra.io import load_json_model
-import pandas as pd
+
 
 def set_production_objective(model, target_metabolite):
     """设置目标代谢物的最大化生产"""
@@ -17,6 +17,7 @@ def set_production_objective(model, target_metabolite):
     except KeyError:
         raise ValueError(f"未找到目标代谢物: {target_metabolite}")
 
+
 def define_medium(model, medium_dict):
     """定义培养基条件"""
     # 首先关闭所有交换反应
@@ -32,13 +33,14 @@ def define_medium(model, medium_dict):
         except KeyError:
             print(f"警告: 未找到代谢物 {metabolite} 的交换反应")
 
+
 def main():
     # 设置求解器
     Configuration().solver = "glpk"
 
     # 读取模型
     print("加载模型...")
-    model = load_json_model("model/Saccharopolyspora_spinosa_boundaries.json")
+    model = load_json_model("../model/Saccharopolyspora_spinosa_boundaries.json")
     print(f"模型加载完成，包含:")
     print(f"- {len(model.metabolites)} 个代谢物")
     print(f"- {len(model.reactions)} 个反应")
@@ -62,6 +64,7 @@ def main():
                 
     except Exception as e:
         print(f"优化过程中出现错误: {str(e)}")
+
 
 if __name__ == "__main__":
     main()

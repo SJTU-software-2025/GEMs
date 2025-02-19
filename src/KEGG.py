@@ -1,5 +1,7 @@
 import requests
 import re
+
+
 def get_chemical_formula(chemical_name):
     url = f'https://rest.kegg.jp/get/{chemical_name}'
     response = requests.get(url)
@@ -15,17 +17,19 @@ def get_chemical_formula(chemical_name):
             return None
         return formula
     elif response.status_code == 404:
-        print(f"404 not found")
+        print(f"{chemical_name}：未找到化学式")
         return None
     else:
-        print(f"{chemical_name}:未找到化学式。")
+        print("服务器错误或网络问题。")
         return None
+
 
 def main():
     # 例子: 获取ATP的分子式
     chemical_name = "C00002"  # KEGG中的ATP ID
     formula = get_chemical_formula(chemical_name)
     print(f"The chemical formula of ATP is: {formula}")
+
 
 if __name__ == "__main__":
     main()

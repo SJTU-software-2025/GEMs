@@ -6,8 +6,8 @@ from KEGG import get_chemical_formula
 import tqdm
 
 # 临时文件路径
-TEMP_FILE = "data/metabolites_temp.pkl"
-FINAL_FILE = "data/metabolites.pkl"
+TEMP_FILE = "../data/metabolites_temp.pkl"
+FINAL_FILE = "../data/metabolites.pkl"
 
 # 读取已有进度
 metabolites = {}
@@ -17,7 +17,7 @@ if os.path.exists(TEMP_FILE):
     print(f"从临时文件恢复了 {len(metabolites)} 个代谢物")
 
 # 读取并处理数据
-metabolites_df = pd.read_csv("data/metabolites.csv")
+metabolites_df = pd.read_csv("../data/metabolites.csv")
 # 过滤掉已处理的行
 remaining_df = metabolites_df[~metabolites_df["ID"].isin(metabolites.keys())]
 

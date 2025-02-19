@@ -1,14 +1,16 @@
-from cobra import Metabolite, Reaction, Model
-from cobra.io import load_json_model, save_json_model
+from cobra import Reaction, Model
+from cobra.io import save_json_model
 import pickle
 import pandas as pd
 import re
-import tqdm
+from tqdm import tqdm
 import os
+from cobra import Configuration
+Configuration().solver = "glpk"
 
 
 def clean_model_data(model):
-    """清理模型中的NaN值"""
+    """清理模型中的NaN值，主要是reaction.subsystem和metabolite.formula"""
     for reaction in model.reactions:
         if pd.isna(reaction.name):
             reaction.name = ""
@@ -23,8 +25,9 @@ def clean_model_data(model):
         if pd.isna(metabolite.formula):
             metabolite.formula = ""
 
+
 # 临时文件路径
-TEMP_FILE = "model/model_temp.pkl"
+TEMP_FILE = "../model/model_temp.pkl"
 
 # 加载或创建新模型
 if os.path.exists(TEMP_FILE):
@@ -42,7 +45,7 @@ else:
     
     # 添加代谢物
     print("添加代谢物到模型...")
-    for _, metabolite in tqdm.tqdm(metabolites.items()):
+    for _, metabolite in tqdm(metabolites.items()):
         # 代谢物id以_b结尾的不需要添加
         if metabolite.id.endswith("_b"):
             continue
@@ -55,14 +58,14 @@ else:
         model.add_metabolites(metabolite)
 
 # 加载 reactions.csv
-reactions_df = pd.read_csv("data/reactions.csv")
+reactions_df = pd.read_csv("../data/reactions.csv")
 # 过滤已添加的反应
 existing_reactions = set(r.id for r in model.reactions)
 remaining_df = reactions_df[~reactions_df["Reaction ID"].isin(existing_reactions)]
 
 try:
     # 添加反应
-    for _, row in tqdm.tqdm(remaining_df.iterrows(), 
+    for _, row in tqdm(remaining_df.iterrows(),
                            total=len(remaining_df),
                            desc="添加反应"):
         try:
@@ -106,6 +109,9 @@ try:
                 if not any(metabolite_id.endswith(suffix) for suffix in ["_c", "_e", "_b", "_p"]):
                     metabolite_id += "_c"
                 metabolite = metabolites[metabolite_id]
+
+                # Adding metabolites to a reaction uses a dictionary of the metabolites and their stoichiometric coefficients.
+                # A group of metabolites can be added all at once, or they can be added one at a time.
                 reaction.add_metabolites({metabolite: coeff})
 
             # 处理产物
@@ -122,7 +128,6 @@ try:
                 if not any(metabolite_id.endswith(suffix) for suffix in ["_c", "_e", "_b", "_p"]):
                     metabolite_id += "_c"
 
-                
                 metabolite = metabolites[metabolite_id]
                 reaction.add_metabolites({metabolite: coeff})
 
@@ -150,7 +155,7 @@ try:
 
     # 保存最终模型
     clean_model_data(model)
-    save_json_model(model, f"model/{model.id}.json")
+    save_json_model(model, f"../model/{model.id}.json")
     
     # 删除临时文件
     if os.path.exists(TEMP_FILE):
