@@ -30,7 +30,6 @@
 
 本项目构建了 Saccharopolyspora spinosa 的基因组尺度代谢模型，在其代谢空间中进行基因靶点搜索，以多杀菌素关键合成途径为基础分析基因表达情况，研究多杀菌素的高效生物合成，为细胞工厂设计提供理性指导。
 
----
 ## Dependencies
 - conda 23.10.0 or higher
 - Python 3.10
@@ -38,8 +37,6 @@
 - tqdm
 - zeep
 - biopython
-
----
 
 ## Installation
 ```bash
@@ -50,8 +47,6 @@ conda activate gems
 # 安装依赖
 pip install cobra tqdm zeep biopython
 ```
-
----
 
 ## Usage
 ```bash
@@ -68,8 +63,6 @@ python src/boundary.py
 python src/solve.py
 ```
 
----
-
 ### 边界设定参考表
 | 反应类型  | 默认 lower_bound | 默认 upper_bound | 允许负通量 | 允许正通量 | 典型应用场景               |
 |-----------|------------------|------------------|------------|------------|----------------------------|
@@ -77,12 +70,8 @@ python src/solve.py
 | Demand    | 0                | 1000            | ❌          | ✅          | 生物量合成需求             |
 | Sink      | -10             | 10              | ✅          | ✅          | 模型拓扑闭合/瞬态平衡      |
 
----
-
 ## Source
 https://github.com/SJTU-software-2025/GEMs
-
----
 
 ## Reference
 
