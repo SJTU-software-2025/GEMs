@@ -15,7 +15,8 @@ def main():
             model.add_boundary(metabolite, type="exchange")
     # 保存模型
     save_json_model(model, "../model/Saccharopolyspora_spinosa_boundaries.json")
-
+# metabolite：C_Spinosad_e
+# exchange reaction：EX_C_Spinosad_e
 
 if __name__ == "__main__":
     main()
