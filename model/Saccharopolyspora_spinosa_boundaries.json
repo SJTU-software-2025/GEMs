@@ -10125,7 +10125,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"",
+"gene_reaction_rule":"pntAB",
 "subsystem":"rn00760"
 },
 {
