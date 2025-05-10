@@ -4,7 +4,7 @@ R10221,6-Phospho-D-gluconate + NAD+ <=> D-Ribulose 5-phosphate + CO2 + NADH + H+
 R00985,Chorismate + Ammonia <=> Anthranilate + Pyruvate + H2O,C00251 + C00014 <=> C00108 + C00022 + C00001,TRUE,4.1.3.27,( chr_27 and chr_6576 )
 R00986,Chorismate + L-Glutamine <=> Anthranilate + Pyruvate + L-Glutamate,C00251 + C00064 <=> C00108 + C00022 + C00025,TRUE,4.1.3.27,( chr_27 and chr_6576 )
 R04519,"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + [GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-g-D-Glu-A2pm-D-Ala-D-Ala)]n-diphosphoundecaprenol <=> di-trans,poly-cis-Undecaprenyl diphosphate + [GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-g-D-Glu-A2pm-D-Ala-D-Ala)]n-diphosphoundecaprenol",C05898 + C11827 <=> C04574 + C11827,TRUE,2.4.99.28,chr_30
-R06177,"G10555 + G10557(n) <=> di-trans,poly-cis-Undecaprenyl diphosphate + G10557(n+1)",G10555 + G10557(n) <=> C04574 + G10557(n+1),TRUE,2.4.99.28,chr_30
+R06177,"G10555 + G10557(n) <=> di-trans,poly-cis-Undecaprenyl diphosphate + G10557(n+1)",G10555 <=> C04574 + G10557,TRUE,2.4.99.28,chr_30
 R00286,UDP-glucose + H2O + 2 NAD+ <=> UDP-glucuronate + 2 NADH + 2 H+,C00029 + C00001 + 2 C00003 <=> C00167 + 2 C00004 + 2 C00080,TRUE,1.1.1.22,chr_64
 R00494,Glutathione + H2O <=> Cys-Gly + L-Glutamate,C00051 + C00001 <=> C01419 + C00025,TRUE,3.4.19.13,chr_66
 R01262,Glutathione + L-Amino acid <=> Cys-Gly + (5-L-Glutamyl)-L-amino acid,C00051 + C00151 <=> C01419 + C03740,TRUE,2.3.2.2,chr_66
@@ -282,7 +282,7 @@ R01056,D-Ribose 5-phosphate <=> D-Ribulose 5-phosphate,C00117 <=> C00199,TRUE,5.
 R09030,D-Allose 6-phosphate <=> D-Allulose 6-phosphate,C02962 <=> C18096,TRUE,5.3.1.6,chr_1458
 R00942,ATP + Tetrahydrofolate + L-Glutamate <=> ADP + Orthophosphate + THF-L-glutamate,C00002 + C00101 + C00025 <=> C00008 + C00009 + C09332,TRUE,6.3.2.17,chr_1485
 R02237,ATP + Dihydropteroate + L-Glutamate <=> ADP + Orthophosphate + Dihydrofolate,C00002 + C00921 + C00025 <=> C00008 + C00009 + C00415,TRUE,6.3.2.12;6.3.2.17,chr_1485
-R04241,ATP + THF-polyglutamate(n) + L-Glutamate <=> ADP + Orthophosphate + THF-polyglutamate(n+1),C00002 + C03541(n) + C00025 <=> C00008 + C00009 + C03541(n+1),TRUE,6.3.2.17,chr_1485
+R04241,ATP + THF-polyglutamate(n) + L-Glutamate <=> ADP + Orthophosphate + THF-polyglutamate(n+1),C00002 + C00025 <=> C00008 + C00009 + C03541,TRUE,6.3.2.17,chr_1485
 R00124,ATP + ADP <=> ADP + ATP,C00002 + C00008 <=> C00008 + C00002,TRUE,2.7.4.6,chr_1493
 R00139,2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate + ATP <=> 2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate + ADP,C11038 + C00002 <=> C11039 + C00008,TRUE,2.7.4.6,chr_1493
 R00156,ATP + UDP <=> ADP + UTP,C00002 + C00015 <=> C00008 + C00075,TRUE,2.7.4.6,chr_1493
@@ -886,7 +886,7 @@ R02519,Homogentisate + Oxygen <=> 4-Maleylacetoacetate,C00544 + C00007 <=> C0103
 R00026,Cellobiose + H2O <=> 2 beta-D-Glucose,C00185 + C00001 <=> 2 C00221,TRUE,3.2.1.21,chr_4114
 R00306,Cellobiose + H2O <=> 2 D-Glucose,C00185 + C00001 <=> 2 C00031,TRUE,3.2.1.21;3.2.1.74,chr_4114
 R02558,Prunasin + H2O <=> Mandelonitrile + D-Glucose,C00844 + C00001 <=> C00561 + C00031,TRUE,3.2.1.21;3.2.1.118,chr_4114
-R02887,Cellodextrin + (n-2) H2O <=> (n-2) D-Glucose + Cellobiose,C01898 + (n-2) C00001 <=> (n-2) C00031 + C00185,TRUE,3.2.1.21;3.2.1.74,chr_4114
+R02887,Cellodextrin + (n-2) H2O <=> (n-2) D-Glucose + Cellobiose,C01898 + C00001 <=> C00031 + C00185,TRUE,3.2.1.21;3.2.1.74,chr_4114
 R02985,Prunasin + D-Glucose <=> Amygdalin + H2O,C00844 + C00031 <=> C08325 + C00001,TRUE,3.2.1.21;3.2.1.117,chr_4114
 R03527,beta-D-Glucoside + H2O <=> D-Glucose + ROH,C00963 + C00001 <=> C00031 + C01335,TRUE,3.2.1.21,chr_4114
 R04949,Cyanoglycoside + H2O <=> Cyanohydrin + D-Glucose,C05713 + C00001 <=> C05712 + C00031,TRUE,3.2.1.21,chr_4114
@@ -1126,7 +1126,6 @@ R06269,13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester + S-Adenosy
 R06270,13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester + S-Adenosyl-L-methionine <=> Divinylprotochlorophyllide + 5'-Deoxyadenosine + L-Methionine,C11830 + C00019 <=> C11831 + C05198 + C00073,TRUE,1.21.98.3,chr_5479
 R01624,Acetyl-CoA + Acyl-carrier protein <=> CoA + Acetyl-[acyl-carrier protein],C00024 + C00229 <=> C00010 + C03939,TRUE,2.3.1.38;2.3.1.85;2.3.1.86;2.3.1.-,chr_5497
 R01706,Hexadecanoyl-[acp] + H2O <=> Acyl-carrier protein + Hexadecanoic acid,C05764 + C00001 <=> C00229 + C00249,TRUE,2.3.1.85;3.1.2.14,chr_5497
-R05188,Acetyl-CoA + n Malonyl-CoA + 2n NADPH + 2n H+ <=> Long-chain fatty acid + n CO2 + 2n NADP+ + (n+1) CoA + n H2O,C00024 + n C00083 + 2n C00005 + 2n C00080 <=> C00638 + n C00011 + 2n C00006 + (n+1) C00010 + n C00001,TRUE,2.3.1.85,chr_5497
 R08159,Tetradecanoyl-[acp] + H2O <=> Acyl-carrier protein + Tetradecanoic acid,C05761 + C00001 <=> C00229 + C06424,TRUE,3.1.2.14,chr_5497
 R04427,S-Adenosyl-L-methionine + Zymosterol <=> S-Adenosyl-L-homocysteine + Fecosterol,C00019 + C05437 <=> C00021 + C04525,TRUE,2.1.1.41,chr_5502
 R07481,Cycloartenol + S-Adenosyl-L-methionine <=> 24-Methylidenecycloartanol + S-Adenosyl-L-homocysteine,C01902 + C00019 <=> C08830 + C00021,TRUE,2.1.1.41,chr_5502
@@ -1528,3 +1527,102 @@ R07934,"(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA + Oxygen <=> (2E,6Z,9Z,12
 R07950,"(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA + Oxygen <=> (2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexaenoyl-CoA + Hydrogen peroxide",C16172 + C00007 <=> C16387 + C00027,TRUE,1.3.3.6,chr_8198
 R12356,Propanoyl-CoA + Oxygen <=> Propenoyl-CoA + Hydrogen peroxide,C00100 + C00007 <=> C00894 + C00027,TRUE,1.3.3.6,chr_8198
 R01939,L-2-Aminoadipate + 2-Oxoglutarate <=> 2-Oxoadipate + L-Glutamate,C00956 + C00026 <=> C00322 + C00025,TRUE,2.6.1.39,chr_8218
+R00293,UDP-glucose = UDP-4-dehydro-6-deoxy-D-glucose + H2O,C00029 <=> C04089 + C00001,FALSE,4.2.1.76,
+R08704,UDP-4-dehydro-6-deoxy-D-glucose = UDP-4-keto-rhamnose,C04089 <=> C17328,FALSE,1.1.1.-;5.1.3.-,
+R08705,UDP-4-keto-rhamnose + NADPH + H+ = UDP-L-rhamnose + NADP+,C17328 + C00005 + C00080 <=> C02199 + C00006,FALSE,1.1.1.-,
+R06428,"4,6-Dideoxy-4-oxo-dTDP-D-glucose = dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose + H2O",C11907 <=> C11930 + C00001,FALSE,4.2.1.159,
+R06430,"dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose + NADPH + H+ = dTDP-4-oxo-2,6-dideoxy-D-glucose + NADP+",C11930 + C00005 + C00080 <=> C11922 + C00006,FALSE,,
+R08930,"dTDP-4-oxo-2,6-dideoxy-D-glucose = dTDP-4-oxo-2,3,6-trideoxy-D-glucose",C11922 <=> C18032,FALSE,4.2.1.164,
+R08931,"dTDP-4-oxo-2,3,6-trideoxy-D-glucose + L-Glutamate = dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose + 2-Oxoglutarate",C18032 + C00025 <=> C18033 + C00026,FALSE,2.6.1.110,
+R08932,"dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose + 2 S-Adenosyl-L-methionine = dTDP-D-forosamine + 2 S-Adenosyl-L-homocysteine",C18033 + 2 C00019 <=> C18034 + 2 C00021,FALSE,2.1.1.324,
+R_AGL,2 Propanoyl-CoA + 9 Acetyl-CoA + 10 ATP + 4 H2O + 11 NADPH + 11 H+ = AGL + 10 ADP + 10 Orthophosphate + 11 NADP+,2 C00100 + 9 C00024 + 10 C00002 + 4 C00001 + 11 C00005 + 11 C00080 <=> C_AGL + 10 C00008 + 10 C00009 + 11 C00006,FALSE,,
+R_Assemble,AGL + UDP-L-rhamnose + 3 S-Adenosyl-L-methionine + dTDP-D-forosamine = Spinosad + UDP + 3 S-Adenosyl-L-homocysteine + dTDP,C_AGL + C02199 + 3 C00019 + C18034 <=> C_Spinosad + C00015 + 3 C00021 + C00363,FALSE,,
+R_Spinosad,Spinosad = Spinosad_e,C_Spinosad <=> C_Spinosad_e,FALSE,,
+R_Taurine,Taurine_e + ATP = Taurine + AMP + Orthophosphate,C00245_e + C00002 <=> C00245 + C00008 + C00009,FALSE,,
+R_Molybdate,Molybdate_e + ATP = Molybdate + AMP + Orthophosphate,C06232_e + C00002 <=> C06232 + C00008 + C00009,FALSE,,
+R_Fe3+,Fe3+_e + ATP = Fe3+ + AMP + Orthophosphate,C14819_e + C00002 <=> C14819 + C00008 + C00009,FALSE,,
+R_Thiamine,Thiamine_e + ATP = Thiamine + AMP + Orthophosphate,C00378_e + C00002 <=> C00378 + C00008 + C00009,FALSE,,
+R_Betaine,Taurine_e + ATP = Taurine + AMP + Orthophosphate,C00719_e + C00002 <=> C00719 + C00008 + C00009,FALSE,,
+R_L-Proline1,L-Proline_e + ATP = L-Proline + AMP + Orthophosphate,C00148_e + C00002 <=> C00148 + C00008 + C00009,FALSE,,
+R_Choline,Choline_e + ATP = Choline + AMP + Orthophosphate,C00114_e + C00002 <=> C00114 + C00008 + C00009,FALSE,,
+R_Sulfate,Sulfate_e + ATP = Sulfate + AMP + Orthophosphate,C00059_e + C00002 <=> C00059 + C00008 + C00009,FALSE,,
+R_Nitrate,V_e + ATP = Nitrate + AMP + Orthophosphate,C00244_e + C00002 <=> C00244 + C00008 + C00009,FALSE,,
+R_Maltose,Maltose_e + ATP = Maltose + AMP + Orthophosphate,C00208_e + C00002 <=> C00208 + C00008 + C00009,FALSE,,
+R_D-Sorbitol,D-Sorbitol_e + ATP = D-Sorbitol + AMP + Orthophosphate,C00794_e + C00002 <=> C00794 + C00008 + C00009,FALSE,,
+R_Cellobiose,Cellobiose_e + ATP = Cellobiose + AMP + Orthophosphate,C00185_e + C00002 <=> C00185 + C00008 + C00009,FALSE,,
+R_D-Ribose,D-Ribose_e + ATP = D-Ribose + AMP + Orthophosphate,C00121_e + C00002 <=> C00121 + C00008 + C00009,FALSE,,
+R_D-Fructose1,D-Fructose_e + ATP = D-Fructose + AMP + Orthophosphate,C00095_e + C00002 <=> C00095 + C00008 + C00009,FALSE,,
+R_Orthophosphate1,Orthophosphate_e + ATP = AMP + 2 Orthophosphate,C00009_e + C00002 <=> C00008 + 2 C00009,FALSE,,
+R_L-Glutamate1,L-Glutamate_e + ATP = L-Glutamate + AMP + Orthophosphate,C00025_e + C00002 <=> C00025 + C00008 + C00009,FALSE,,
+R_L-Valine1,L-Valine_e + ATP = L-Valine + AMP + Orthophosphate,C00183_e + C00002 <=> C00183 + C00008 + C00009,FALSE,,
+R_L-Leucine1,L-Leucine_e + ATP = L-Leucine + AMP + Orthophosphate,C00123_e + C00002 <=> C00123 + C00008 + C00009,FALSE,,
+R_L-Isoleucine1,L-Isoleucine_e + ATP = L-Isoleucine + AMP + Orthophosphate,C00407_e + C00002 <=> C00407 + C00008 + C00009,FALSE,,
+R_L-Threonine1,L-Threonine_e + ATP = L-Threonine + AMP + Orthophosphate,C00188_e + C00002 <=> C00188 + C00008 + C00009,FALSE,,
+R_L-Histidine1,L-Histidine_e + ATP = L-Histidine + AMP + Orthophosphate,C00135_e + C00002 <=> C00135 + C00008 + C00009,FALSE,,
+R_Peptide,Peptide_e + ATP = Peptide + AMP + Orthophosphate,C00012_e + C00002 <=> C00012 + C00008 + C00009,FALSE,,
+R_Cobalt_ion,Cobalt ion_e + ATP = Cobalt ion + AMP + Orthophosphate,C00175_e + C00002 <=> C00175 + C00008 + C00009,FALSE,,
+R_N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine_e + Phosphoenolpyruvate = N-Acetyl-D-glucosamine 6-phosphate + Pyruvate,C00140_e + C00074 <=> C00357 + C00022,FALSE,,
+R_D-Fructose2,D-Fructose_e + Phosphoenolpyruvate = D-Fructose 6-phosphate + Pyruvate,C00095_e + C00074 <=> C00085 + C00022,FALSE,,
+R_NH3,NH3_e = NH3,C00014_e <=> C00014,FALSE,,
+R_H2O,H2O_e = H2O,C00001_e <=> C00001,FALSE,,
+R_Oxygen,Oxygen_e = Oxygen,C00007_e <=> C00007,TRUE,,
+R_CO2,CO2_e = CO2,C00011_e <=> C00011,TRUE,,
+R_Formate,Formate_e = Formate,C00058_e <=> C00058,TRUE,,
+R_Salicyl_alcohol,Salicyl alcohol_e = Salicyl alcohol,C02323_e <=> C02323,TRUE,,
+R_Glycolate,Glycolate_e = Glycolate,C00160_e <=> C00160,TRUE,,
+R_Acetaldehyde,Acetaldehyde_e = Acetaldehyde,C00084_e <=> C00084,TRUE,,
+R_L-Citrulline,L-Citrulline_e = L-Citrulline,C00327_e <=> C00327,TRUE,,
+R_Formylanthranilate,Formylanthranilate_e = Formylanthranilate,C00067_e <=> C00067,TRUE,,
+R_Glycerol,Glycerol_e = Glycerol,C00116_e <=> C00116,TRUE,,
+R_Glycerone,Glycerone_e = Glycerone,C00184_e <=> C00184,TRUE,,
+R_Guanine,Guanine_e = Guanine,C00242_e <=> C00242,TRUE,,
+R_Hypoxanthine,Hypoxanthine_e = Hypoxanthine,C00262_e <=> C00262,TRUE,,
+R_D-Glyceraldehyde,D-Glyceraldehyde_e = D-Glyceraldehyde,C00577_e <=> C00577,TRUE,,
+R_Urea,Urea_e = Urea,C00086_e <=> C00086,TRUE,,
+R_Xanthine,Xanthine_e = Xanthine,C00385_e <=> C00385,TRUE,,
+R_Acetate,Acetate_e + H+_e = Acetate + H+,C00033_e + C00080_e <=> C00033 + C00080 ,TRUE,,
+R_Adenine,Adenine_e + H+_e = Adenine + H+,C00147_e + C00080_e <=> C00147 + C00080 ,TRUE,,
+R_Adenosine,Adenosine_e + H+_e = Adenosine + H+,C00212_e + C00080_e <=> C00212 + C00080,TRUE,,
+R_2-Oxoglutarate,2-Oxoglutarate_e + H+_e = 2-Oxoglutarate + H+,C00026_e + C00080_e <=> C00026 + C00080,TRUE,,
+R_L-Aspartate,L-Aspartate_e + H+_e = L-Aspartate + H+,C00049_e + C00080_e <=> C00049 + C00080,TRUE,,
+R_Citrate,Citrate_e + 3 H+_e = Citrate + H+,C00158_e + 3 C00080_e <=> C00158 + 3 C00080,TRUE,,
+R_Cytidine,Cytidine_e + H+_e = Cytidine + H+,C00475_e + C00080_e <=> C00475 + C00080,FALSE,,
+R_Cytosine,Cytosine_e + H+_e = Cytosine + H+,C00380_e + C00080_e <=> C00380 + C00080,TRUE,,
+R_Deoxyadenosine,Deoxyadenosine_e + H+_e = Deoxyadenosine + H+,C00559_e + C00080_e <=> C00559 + C00080,TRUE,,
+R_D-Alanine,D-Alanine_e + H+_e = D-Alanine + H+,C00133_e + C00080_e <=> C00133 + C00080,TRUE,,
+R_Deoxycytidine,Deoxycytidine_e + H+_e = Deoxycytidine + H+,C00881_e + C00080_e <=> C00881 + C00080,TRUE,,
+R_Deoxyguanosine,Deoxyguanosine_e + H+_e = Deoxyguanosine + H+,C00330_e + C00080_e <=> C00330 + C00080,TRUE,,
+R_Deoxyinosine,Deoxyinosine_e + H+_e = Deoxyinosine + H+,C05512_e + C00080_e <=> C05512 + C00080,TRUE,,
+R_D-Serine,D-Serine_e + H+_e = D-Serine + H+,C00740_e + C00080_e <=> C00740 + C00080,TRUE,,
+R_Thymidine,Thymidine_e + H+_e = Thymidine + H+,C00214_e + C00080_e <=> C00214 + C00080,TRUE,,
+R_Deoxyuridine,Deoxyuridine_e + H+_e = Deoxyuridine + H+,C00526_e + C00080_e <=> C00526 + C00080,TRUE,,
+R_Ethanol,Ethanol_e + H+_e = Ethanol + H+,C00469_e + C00080_e <=> C00469 + C00080,TRUE,,
+R_Fumarate,Fumarate_e + 2 H+_e = Fumarate + H+,C00122_e + 2 C00080_e <=> C00122 + C00080,TRUE,,
+R_4-Aminobutanoate,4-Aminobutanoate_e + H+_e = 4-Aminobutanoate + H+,C00334_e + C00080_e <=> C00334 + C00080,TRUE,,
+R_D-Galactose,D-Galactose_e + H+_e = D-Galactose + H+,C00124_e + C00080_e <=> C00124 + C00080,FALSE,,
+R_L-Glutamate2,L-Glutamate_e + H+_e = L-Glutamate + H+,C00064_e + C00080_e <=> C00064 + C00080,TRUE,,
+R_D-Glucose,D-Glucose_e + H+_e = D-Glucose + H+,C00031_e + C00080_e <=> C00031 + C00080,FALSE,,
+R_D-Gluconic_acid,D-Gluconic acid_e + H+_e = D-Gluconic acid + H+,C00257_e + C00080_e <=> C00257 + C00080,TRUE,,
+R_Glycine,Glycine_e + H+_e = Glycine + H+,C00037_e + C00080_e <=> C00037 + C00080,FALSE,,
+R_Guanosine,Guanosine_e + H+_e = Guanosine + H+,C00387_e + C00080_e <=> C00387 + C00080,TRUE,,
+R_L-Histidine2,L-Histidine_e + H+_e = L-Histidine + H+,C00135_e + C00080_e <=> C00135 + C00080,TRUE,,
+R_L-Isoleucine2,L-Isoleucine_e + H+_e = L-Isoleucine + H+,C00407_e + C00080_e <=> C00407 + C00080,TRUE,,
+R_Inosine,Inosine_e + H+_e = Inosine + H+,C00294_e + C00080_e <=> C00294 + C00080,TRUE,,
+R_2-Dehydro-3-deoxy-D-gluconate,2-Dehydro-3-deoxy-D-gluconate_e + H+_e = 2-Dehydro-3-deoxy-D-gluconate + H+,C00204_e + C00080_e <=> C00204 + C00080,TRUE,,
+R_(R)-Lactate,(R)-Lactate_e + H+_e = (R)-Lactate + H+,C00256_e + C00080_e <=> C00256 + C00080,TRUE,,
+R_L-Leucine2,L-Leucine_e + H+_e = L-Leucine + H+,C00123_e + C00080_e <=> C00123 + C00080,TRUE,,
+R_(S)-Lactate,(S)-Lactate_e + H+_e = (S)-Lactate + H+,C00186_e + C00080_e <=> C00186 + C00080,TRUE,,
+R_L-Lysine,L-Lysine_e + H+_e = L-Lysine + H+,C00047_e + C00080_e <=> C00047 + C00080,TRUE,,
+R_(S)-Malate,(S)-Malate_e + 2 H+_e = (S)-Malate + 2 H+,C00149_e + 2 C00080_e <=> C00149 + 2 C00080,TRUE,,
+R_L-Phenylalanine,L-Phenylalanine_e + H+_e = L-Phenylalanine + H+,C00079_e + C00080_e <=> C00079 + C00080,TRUE,,
+R_Orthophosphate2,Orthophosphate_e + H+_e = Orthophosphate + H+,C00009_e + C00080_e <=> C00009 + C00080,TRUE,,
+R_L-Proline2,L-Proline_e + H+_e = L-Proline + H+,C00148_e + C00080_e <=> C00148 + C00080,TRUE,,
+R_Propanoate,Propanoate_e + H+_e = Propanoate + H+,C00163_e + C00080_e <=> C00163 + C00080,TRUE,,
+R_Pyruvate,Pyruvate_e + H+_e = Pyruvate + H+,C00022_e + C00080_e <=> C00022 + C00080,TRUE,,
+R_L-Serine,L-Serine_e + H+_e = L-Serine + H+,C00065_e + C00080_e <=> C00065 + C00080,TRUE,,
+R_Succinate,Succinate_e + H+_e = Succinate + H+,C00042_e + C00080_e <=> C00042 + C00080,TRUE,,
+R_L-Threonine2,L-Threonine_e + H+_e = L-Threonine + H+,C00188_e + C00080_e <=> C00188 + C00080,TRUE,,
+R_L-Tryptophan,L-Tryptophan_e + H+_e = L-Tryptophan + H+,C00078_e + C00080_e <=> C00078 + C00080,TRUE,,
+R_Uracil,Uracil_e + H+_e = Uracil + H+,C00106_e + C00080_e <=> C00106 + C00080,TRUE,,
+R_Uridine,Uridine_e + H+_e = Uridine + H+,C00105_e + C00080_e <=> C00105 + C00080,TRUE,,
+R_L-Valine2,L-Valine_e + H+_e = L-Valine + H+,C00183_e + C00080_e <=> C00183 + C00080,TRUE,,
