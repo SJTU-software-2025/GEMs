@@ -105,7 +105,7 @@ try:
                 else:
                     coeff, metabolite_id = -1, reactant  # 默认系数为-1
                 
-                # 如果metabolite_id中不含有"_"，则添加"_c"，表示细胞质
+                # 如果metabolite_id中不含有"_..."，则添加"_c"，表示细胞质
                 if not any(metabolite_id.endswith(suffix) for suffix in ["_c", "_e", "_b", "_p"]):
                     metabolite_id += "_c"
                 metabolite = metabolites[metabolite_id]

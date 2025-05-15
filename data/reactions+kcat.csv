@@ -1376,7 +1376,7 @@ Spinosad ,R00293,UDP-glucose = UDP-4-dehydro-6-deoxy-D-glucose + H2O,C00029 <=> 
 ,R08704,UDP-4-dehydro-6-deoxy-D-glucose = UDP-4-keto-rhamnose,C04089 <=> C17328,FALSE,,1.1.1.-?????????5.1.3.-,rn00520,
 ,R08705,UDP-4-keto-rhamnose + NADPH + H+ = UDP-L-rhamnose + NADP+,C17328 + C00005 + C00080 <=> C02199 + C00006,FALSE,,1.1.1.-,rn00520,
 ,R06428,"4,6-Dideoxy-4-oxo-dTDP-D-glucose = dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose + H2O",C11907 <=> C11930 + C00001,FALSE,,,rn00523,
-,R06430,"dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose + NADPH + H+ = dTDP-4-oxo-2,6-dideoxy-D-glucose + NADP+",C11930 + C00005 + C00080 <=> C11922 + C00006,FALSE,,,rn00523,
+,R06434,"dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose + NADPH + H+ = dTDP-4-oxo-2,6-dideoxy-D-glucose + NADP+",C11930 + C00005 + C00080 <=> C11922 + C00006,FALSE,,,rn00523,
 ,R08930,"dTDP-4-oxo-2,6-dideoxy-D-glucose = dTDP-4-oxo-2,3,6-trideoxy-D-glucose",C11922 <=> C18032,FALSE,,,rn00523,
 ,R08931,"dTDP-4-oxo-2,3,6-trideoxy-D-glucose + L-Glutamate = dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose + 2-Oxoglutarate",C18032 + C00025 <=> C18033 + C00026,FALSE,,2.6.1.-,rn00523,
 ,R08932,"dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose + 2 S-Adenosyl-L-methionine = dTDP-D-forosamine + 2 S-Adenosyl-L-homocysteine",C18033 + 2 C00019 <=> C18034 + 2 C00021,FALSE,ksgA or NZ_AEYC01000021.1:21202..22068 or NZ_AEYC01000007.1:176966..177736 or NZ_AEYC01000001.1:169292..170101,2.1.1.-,rn00523,
